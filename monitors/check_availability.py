@@ -47,7 +47,9 @@ def shopify_state(url):
     if imgs:
         image = imgs[0] if imgs[0].startswith("http") else "https:" + imgs[0]
 
-    html = requests.get(base, headers=UA, timeout=TIMEOUT).text
+    hr = requests.get(base, headers=UA, timeout=TIMEOUT)
+    hr.raise_for_status()          # a 429/5xx page has no cart form; never read it as a signal
+    html = hr.text
     i = html.find('action="/cart/add"')
     seg = re.sub(r"\s+", " ", html[i:i + 8000]) if i >= 0 else ""
     btn = re.search(r'<button[^>]*type="submit"[^>]*>(.{0,1500}?)<\/button>', seg, re.I | re.S)
@@ -79,6 +81,8 @@ def main(dry=False):
     for l in d["listings"]:
         if l.get("verification") == "demo" or not l.get("listing_url") or not l.get("retailer_id"):
             continue  # demo rows and aggregator rows are not auto-checked
+        if l.get("creator_id"):
+            continue  # creator-watch rows are verified (per edition) by creator_watch.py
         r = retailers[l["retailer_id"]]
         if "/products/" not in l["listing_url"]:
             continue  # collection links are not product listings

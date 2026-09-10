@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Midnight Watch — Tulsa Release Tracker</title>
-<meta name="description" content="Tulsa-area preorder, availability, and appearance monitoring for Midnight Spider-Man and Absolute Batman.">
+<meta name="description" content="Tulsa-area preorder, availability, and appearance monitoring for Midnight Spider-Man and Absolute Batman, plus a Skottie Young cover, exclusive and appearance watch.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Anton&family=Archivo:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
 <style>
@@ -171,6 +171,9 @@
   .legend{display:grid;grid-template-columns:auto 1fr;gap:8px 16px;color:var(--muted);font-size:14px;margin-top:14px}
   .tag{display:inline-block;font-size:11px;padding:1px 6px;border:1px solid var(--line2);border-radius:3px;color:var(--dim);margin-left:6px}
   .tag.live{color:var(--ok)}.tag.directory{color:var(--pre)}.tag.snapshot{color:var(--warn)}.tag.demo{color:var(--demo)}.tag.publisher{color:var(--pre)}
+  .cc .rt{position:absolute;top:10px;right:10px;background:rgba(15,15,17,.85);color:var(--muted);font-size:11px;font-weight:600;letter-spacing:.06em;padding:4px 7px;border-radius:3px;z-index:1;border:1px solid var(--line2)}
+  .cc .ed{font-size:12px;color:var(--muted);margin-top:8px;line-height:1.45}.cc .ed .y{color:var(--ok)}.cc .ed .n{color:var(--dim);text-decoration:line-through}
+  .drops>div{display:grid;grid-template-columns:44px 1fr auto;gap:12px;align-items:center;padding:10px 0;border-bottom:1px solid var(--line)}.drops img{width:44px;height:66px;object-fit:cover;background:var(--panel)}.drops .t{font-weight:600;font-size:14px}.drops .m{color:var(--muted);font-size:12.5px}.drops .s{font-size:12.5px;font-weight:600;color:var(--red);white-space:nowrap}.drops .s.ok{color:var(--ok)}
   .notice{display:none;background:rgba(240,137,75,.1);border:1px solid rgba(240,137,75,.35);border-radius:6px;padding:10px 14px;font-size:14px;margin-bottom:20px}
 </style>
 </head>
@@ -187,6 +190,7 @@
       <button type="button" data-v="covers">Cover matrix</button>
       <button type="button" data-v="tour">2026 tour</button>
       <button type="button" data-v="batman">Absolute Batman</button>
+      <button type="button" data-v="skottie">Skottie Young</button>
       <button type="button" data-v="sources">Sources</button>
     </nav>
     <div class="foot" id="side1"><div class="eyebrow">Marvel · #1</div><b>On sale Oct 7</b>FOC closed Aug 31</div><div class="foot" id="side2" style="margin-top:0;border-top:0;padding-top:12px"></div>
@@ -209,6 +213,7 @@
       <div class="stats" id="stats"></div>
       <div class="mon"><div class="dot"></div><div><b>Regional appearance monitor active</b><span>Daily checks for newly announced Oklahoma or Kansas events. Alerts only fire on a new match.</span></div><span class="pill g">Daily</span></div>
       <div class="mon"><div class="dot"></div><div><b>Metro availability scan active</b><span id="monText"></span></div><span class="pill g" id="cd" style="min-width:150px;text-align:center;font-variant-numeric:tabular-nums">Next scan —</span></div>
+      <div class="mon"><div class="dot"></div><div><b>Skottie Young watch active</b><span id="syMonText"></span></div><span class="pill g">Hourly</span></div>
       <p class="fine" style="margin-top:14px">Availability is verified against US retailer storefront purchase controls when possible. Last updated <b id="updated"></b> Central Time.</p>
 
       <div class="two">
@@ -274,6 +279,23 @@
       </table></div>
     </div>
 
+    <div class="view" id="v-skottie">
+      <div class="eyebrow">Creator watch · hourly</div>
+      <div class="pghead"><h2 class="pg">Skottie Young</h2><span class="pill g" id="syPill"></span></div>
+      <div class="stats" id="syStats"></div>
+      <div class="two" style="margin-top:28px">
+        <div class="card"><div class="eyebrow">skottieyoung.com</div><h3>Latest drops</h3><div class="drops" id="syDrops"></div></div>
+        <div class="card cream"><div class="eyebrow">Appearances</div><h3 id="syAppHead"></h3><p id="syAppText"></p><a href="https://skottieyoung.com/pages/appearances" target="_blank" rel="noopener"><b>His Appearances page ↗</b></a></div>
+      </div>
+      <div class="seg" id="sySeg" style="margin-top:28px"><button data-k="buy" class="on">Buyable</button><button data-k="pre">Preorders &amp; upcoming</button><button data-k="new">New this week</button><button data-k="all">All tracked</button><button data-k="impulse">Impulse</button><button data-k="midtown">Midtown</button><button data-k="store">skottieyoung.com</button><button data-k="exclusive">Exclusives</button><button data-k="signed">Signed / CGC</button><button data-k="incentive">Incentives &amp; virgins</button><input id="syQ" type="search" placeholder="Search title, publisher…"></div>
+      <p class="fine" id="syCount" style="margin:0 0 12px"></p>
+      <div class="grid" id="syGrid"></div>
+      <div class="pghead" style="margin-top:44px"><h2 class="pg">2026 appearances</h2><span class="pill m" id="syAppPill"></span></div>
+      <div class="tour" id="syTour"></div>
+      <div class="mon" style="margin-top:24px"><div class="dot"></div><div><div class="eyebrow">Automatic check</div><b>Covers hourly · appearances daily</b><span>Impulse's catalog, Midtown's search and purchase control, and the skottieyoung.com storefront are re-read every hour; his Appearances page, the Planet Comicon guest page, FanCons and the Baltimore guest list daily. Alerts fire only on a new listing, a restock, a sold-out, a price or date change, or an edited appearance page.</span></div><span class="pill g">Active</span></div>
+      <p class="fine">Scope: every Impulse and Midtown listing whose title credits Skottie Young on the cover, and the comics, artist exclusives, CGC Signature Series slabs and signed warehouse-sale books on his own store. Books he wrote with other cover artists, original art, prints, stickers and auctions are out of scope. Impulse's catalog API returns at most 100 pages per collection, so a back issue that sits only in the store's unnamed catalog can be missed; anything on preorder or in a publisher collection is covered.</p>
+    </div>
+
     <div class="view" id="v-sources">
       <div class="eyebrow">Audit trail</div>
       <div class="pghead"><h2 class="pg">Primary sources</h2></div>
@@ -301,7 +323,11 @@
   const $$=v=>v==null?'—':'$'+v.toFixed(2);
   const STAT={available:'Available',preorder_open:'Preorder open',sold_out:'Sold out',coming_soon:'Coming soon',needs_verification:'Needs verification',unknown:'Unknown',demo:'Demo / verify'};
   const ret=Object.fromEntries(D.retailers.map(r=>[r.id,r]));
-  const L=D.listings, msm=L.filter(l=>l.series_id==='msm'), impulseAll=msm.filter(l=>l.retailer_id==='impulse'), impulse=impulseAll.filter(l=>l.variant_type!=='signed'), signedOf=Object.fromEntries(impulseAll.filter(l=>l.variant_type==='signed').map(l=>[l.issue+l.cover_letter,l])), abat=L.filter(l=>l.series_id==='abat'), isBuy=l=>['available','preorder_open'].includes(l.status);
+  /* creator-watch rows (series_id "sy") and online retailers are kept out of the series views */
+  const ALL=D.listings, SY=ALL.filter(l=>l.series_id==='sy'), L=ALL.filter(l=>l.series_id!=='sy');
+  const METRO=D.retailers.filter(r=>r.scope!=='online');
+  const APPS=D.appearances.filter(a=>(a.creator_id||'pkj')==='pkj'), SYA=D.appearances.filter(a=>a.creator_id==='skottie-young');
+  const msm=L.filter(l=>l.series_id==='msm'), impulseAll=msm.filter(l=>l.retailer_id==='impulse'), impulse=impulseAll.filter(l=>l.variant_type!=='signed'), signedOf=Object.fromEntries(impulseAll.filter(l=>l.variant_type==='signed').map(l=>[l.issue+l.cover_letter,l])), abat=L.filter(l=>l.series_id==='abat'), isBuy=l=>['available','preorder_open'].includes(l.status);
   const msm1=impulse.filter(l=>l.issue==='1'), msm2=impulse.filter(l=>l.issue==='2');
   const now=new Date(), weekAgo=new Date(now-7*864e5), isNew=i=>i&&new Date(i)>weekAgo;
   $('#snap').textContent='Snapshot · '+new Date(D.meta.generated_at).toLocaleDateString('en-US',{timeZone:TZ,month:'short',day:'numeric',year:'numeric'});
@@ -313,28 +339,28 @@
 
   const buyable=L.filter(isBuy).length;
   const sold=impulseAll.filter(l=>l.issue==='1'&&l.status==='sold_out').length, pre2=msm2.filter(isBuy).length;
-  const tulsa=D.appearances.filter(a=>a.in_region&&a.status==='confirmed').sort((a,b)=>a.date<b.date?-1:1)[0];
+  const tulsa=APPS.filter(a=>a.in_region&&a.status==='confirmed').sort((a,b)=>a.date<b.date?-1:1)[0];
   $('#heroText').textContent=pre2?`Issue #1 is sold out online — ${sold} of ${impulseAll.filter(l=>l.issue==='1').length} Impulse listings, covers A–J plus signed. Issue #2 is the open window: ${pre2} of ${msm2.length} covers are on preorder at Impulse until final order cutoff on ${fMD(D.series[0].issues[1].foc_date)}. No Tulsa shop has a store-exclusive cover.`:`The Tulsa order window has closed. ${sold} of ${impulseAll.filter(l=>l.issue==='1').length} Impulse listings are live-verified sold out and none is a store-exclusive cover.`;
   $('#heroSup').textContent=pre2?'#2':'#1';
   $('#side2').innerHTML=`<div class="eyebrow">Marvel · #2</div><b>On sale ${fMD(D.series[0].issues[1].release_date)}</b>${pre2?`FOC ${fMD(D.series[0].issues[1].foc_date)} · ${pre2} preorders open`:'FOC closed'}`;
   $('#heroEvent').textContent=tulsa?`Tulsa signing · ${fMD(tulsa.date)} ↗`:'No Tulsa signing listed';
   const heroL=(pre2?msm2:msm1).find(l=>l.image_local||l.image_url)||impulse.find(l=>l.image_local||l.image_url);
   $('#heroCover').innerHTML=heroL?`${IMG(heroL)}<div class="cap">Issue #${heroL.issue} · Cover ${heroL.cover_letter}${heroL.artist?' · '+esc(heroL.artist):''}</div>`:'<div class="noimg">No retailer image captured yet</div>';
-  const cities=new Set(D.retailers.map(r=>r.city));
-  $('#stats').innerHTML=`<div><div class="l">Metro retailers</div><div class="n">${D.retailers.length}</div><div class="s">${cities.size} cities</div></div><div><div class="l">Buyable comics</div><div class="n">${buyable}</div><div class="s">as of ${fMD(D.meta.generated_at.slice(0,10))}</div></div><div><div class="l">Cover designs</div><div class="n">${impulse.length}</div><div class="s">#1 A–${msm1.map(l=>l.cover_letter).sort().pop()} · #2 A–${msm2.map(l=>l.cover_letter).sort().pop()||'?'}</div></div><div><div class="l">Local appearance</div><div class="n">${D.appearances.filter(a=>a.in_region&&a.status==='confirmed').length}</div><div class="s">${tulsa?tulsa.city+' · '+fMD(tulsa.date):'None'}</div></div>`;
-  const autoN=D.retailers.filter(r=>r.auto_check).length;
-  $('#monText').textContent=`${autoN} of ${D.retailers.length} retailer web surfaces can be read by the 30-minute scan; ${D.retailers.length-autoN} have no public per-product inventory. Runs every 30 minutes; alerts fire on a new or newly buyable listing.`;
+  const cities=new Set(METRO.map(r=>r.city));
+  $('#stats').innerHTML=`<div><div class="l">Metro retailers</div><div class="n">${METRO.length}</div><div class="s">${cities.size} cities</div></div><div><div class="l">Buyable comics</div><div class="n">${buyable}</div><div class="s">as of ${fMD(D.meta.generated_at.slice(0,10))}</div></div><div><div class="l">Cover designs</div><div class="n">${impulse.length}</div><div class="s">#1 A–${msm1.map(l=>l.cover_letter).sort().pop()} · #2 A–${msm2.map(l=>l.cover_letter).sort().pop()||'?'}</div></div><div><div class="l">Local appearance</div><div class="n">${APPS.filter(a=>a.in_region&&a.status==='confirmed').length}</div><div class="s">${tulsa?tulsa.city+' · '+fMD(tulsa.date):'None'}</div></div>`;
+  const autoN=METRO.filter(r=>r.auto_check).length;
+  $('#monText').textContent=`${autoN} of ${METRO.length} retailer web surfaces can be read by the 30-minute scan; ${METRO.length-autoN} have no public per-product inventory. Runs every 30 minutes; alerts fire on a new or newly buyable listing.`;
   const s1=D.series[0], i1=s1.issues[0];
   $('#brief').innerHTML=[['Writer',s1.writer],['Interior art',s1.artist],['Publisher',s1.publisher],['Price / length',`${$$(i1.price_usd)} · ${i1.pages} pages`],['Final order cutoff',fD(i1.foc_date)],['On sale',fD(i1.release_date)],['Issue #2',`${fD(s1.issues[1].release_date)} · FOC ${fMD(s1.issues[1].foc_date)}`],['Issue #3',fD(s1.issues[2].release_date)]].map(([k,v])=>`<div><div class="k">${k}</div><div class="v">${esc(v)}</div></div>`).join('');
-  const KIND={verified:'Verified',appearance_confirmed:'Appearance',appearance_added:'Appearance flagged',date_change:'Date change',new_listing:'New listing',new_issue:'New issue',restock:'Restock',sold_out:'Sold out',price_change:'Price change',preorder_open:'New preorder',available:'Now available'};
+  const KIND={watch_started:'Watch started',verified:'Verified',appearance_confirmed:'Appearance',appearance_added:'Appearance flagged',date_change:'Date change',new_listing:'New listing',new_issue:'New issue',restock:'Restock',sold_out:'Sold out',price_change:'Price change',preorder_open:'New preorder',available:'Now available'};
   const acts=[...D.activity].sort((a,b)=>a.detected_at<b.detected_at?1:-1);
   $('#feedCount').textContent=acts.filter(a=>isNew(a.detected_at)).length+' this week';
-  $('#feed').innerHTML=acts.map(a=>`<li><div class="when">${fDT(a.detected_at)}${isNew(a.detected_at)?'<span class="new">NEW</span>':''}</div><div><span class="k">${KIND[a.type]||a.type}</span>${esc(a.text)}</div><div><a href="${esc(a.source_url)}" target="_blank" rel="noopener" style="color:var(--muted);font-size:13px">Source ↗</a></div></li>`).join('');
+  $('#feed').innerHTML=acts.map(a=>`<li><div class="when">${fDT(a.detected_at)}${isNew(a.detected_at)?'<span class="new">NEW</span>':''}</div><div><span class="k">${KIND[a.type]||a.type}</span>${a.creator_id==='skottie-young'?'<span class="k" style="color:var(--pre)">Skottie Young</span>':''}${esc(a.text)}</div><div><a href="${esc(a.source_url)}" target="_blank" rel="noopener" style="color:var(--muted);font-size:13px">Source ↗</a></div></li>`).join('');
 
-  $('#storesEyebrow').textContent=`${D.retailers.length}-store metro check`;
+  $('#storesEyebrow').textContent=`${METRO.length}-store metro check`;
   $('#storesPill').textContent=buyable?`${buyable} buyable listing${buyable>1?'s':''} · ${pre2} Midnight #2 preorders`:'No comic preorder open';
   $('#coverage').innerHTML=`<b>Coverage</b><span>${[...cities].join(' · ')}</span><small>Bixby and Jenks searched; no dedicated comic shop found. Addresses, hours and phones confirmed Sep 9. Inventory notes come from the Sep 7 survey or are marked not surveyed.</small>`;
-  $('#storeRows').innerHTML=[...D.retailers].sort((a,b)=>a.city===b.city?a.name.localeCompare(b.name):a.city.localeCompare(b.city)).map(r=>`<tr class="${r.id==='impulse'?'hi':''}"><td><b>${esc(r.name)}</b><div class="sub">${esc(r.address||'address not captured')}</div></td><td>${esc(r.city)}</td><td>${esc(r.inventory)}</td><td><span class="st ${r.id==='impulse'?(pre2?'preorder_open':'sold_out'):r.verification==='directory'?'demo':'unknown'}">${esc(r.midnight_1)}</span></td><td>${esc(r.ordering)}</td><td><div class="sub" style="margin:0;color:var(--muted)">${esc(r.hours||'—')}</div><div class="sub">${r.phone?`<a href="tel:${esc(r.phone.replace(/[^+\d]/g,''))}">${esc(r.phone)}</a>`:''}</div></td><td>${r.auto_check?`<span style="color:var(--ok);font-weight:600">Every 30 min</span>${r.catalog_note?`<div class="sub">${esc(r.catalog_note)}</div>`:''}`:'<span style="color:var(--dim)">Manual</span>'}</td><td>${r.website?`<a href="${esc(r.website)}" target="_blank" rel="noopener">Store ↗</a>`:''}${r.maps_url?` <a href="${esc(r.maps_url)}" target="_blank" rel="noopener">Map ↗</a>`:''}<span class="tag ${r.verification}">${r.verification}</span></td></tr>`).join('');
+  $('#storeRows').innerHTML=[...METRO].sort((a,b)=>a.city===b.city?a.name.localeCompare(b.name):a.city.localeCompare(b.city)).map(r=>`<tr class="${r.id==='impulse'?'hi':''}"><td><b>${esc(r.name)}</b><div class="sub">${esc(r.address||'address not captured')}</div></td><td>${esc(r.city)}</td><td>${esc(r.inventory)}</td><td><span class="st ${r.id==='impulse'?(pre2?'preorder_open':'sold_out'):r.verification==='directory'?'demo':'unknown'}">${esc(r.midnight_1)}</span></td><td>${esc(r.ordering)}</td><td><div class="sub" style="margin:0;color:var(--muted)">${esc(r.hours||'—')}</div><div class="sub">${r.phone?`<a href="tel:${esc(r.phone.replace(/[^+\d]/g,''))}">${esc(r.phone)}</a>`:''}</div></td><td>${r.auto_check?`<span style="color:var(--ok);font-weight:600">Every 30 min</span>${r.catalog_note?`<div class="sub">${esc(r.catalog_note)}</div>`:''}`:'<span style="color:var(--dim)">Manual</span>'}</td><td>${r.website?`<a href="${esc(r.website)}" target="_blank" rel="noopener">Store ↗</a>`:''}${r.maps_url?` <a href="${esc(r.maps_url)}" target="_blank" rel="noopener">Map ↗</a>`:''}<span class="tag ${r.verification}">${r.verification}</span></td></tr>`).join('');
 
   $('#signals').innerHTML=(D.meta.signals||[]).map(x=>`<div class="card"><div class="num">${x.n}</div><h4>${esc(x.title)}</h4><p>${esc(x.text)}</p><a href="${esc(x.link)}" target="_blank" rel="noopener">${esc(x.label)} ↗</a></div>`).join('');
   let kind='all', signed=false, issue=pre2?'2':'1';
@@ -361,11 +387,12 @@
   $('#signedSw').addEventListener('click',e=>{signed=!signed;e.currentTarget.classList.toggle('on',signed);e.currentTarget.setAttribute('aria-pressed',signed);grid();});
   grid();
 
-  const reg=D.appearances.filter(a=>a.in_region&&a.status==='confirmed');
+  const reg=APPS.filter(a=>a.in_region&&a.status==='confirmed');
   $('#tourPill').textContent=`${reg.filter(a=>a.state==='OK').length} Oklahoma · ${reg.filter(a=>a.state==='KS').length} Kansas`;
   $('#tourHero').innerHTML=tulsa?`<div class="evt"><div class="d"><div class="m">${new Date(tulsa.date+'T12:00:00').toLocaleDateString('en-US',{month:'short'})}</div><div class="n">${new Date(tulsa.date+'T12:00:00').getDate()}</div><div class="t">${esc((tulsa.time||'').split('(')[0])}</div></div><div><div class="eyebrow">${esc(tulsa.city)} · confirmed</div><h3>${esc(tulsa.event)}</h3><p>${esc(tulsa.venue.split(',')[0])} · ${esc(tulsa.time)} · ${esc(tulsa.entry)}. Verified ${fDT(tulsa.last_verified)}.</p></div><a class="btn" href="${esc(tulsa.url)}" target="_blank" rel="noopener">Event details ↗</a></div>`:`<div class="quiet">No confirmed Oklahoma or Kansas PKJ appearances are currently listed. This section is checked daily.</div>`;
-  const all=[...D.appearances].sort((a,b)=>(a.date||'9')<(b.date||'9')?-1:1);
-  $('#tour').innerHTML=all.map(a=>`<div class="${a.in_region?'hi':''}"><div class="dt">${fMD(a.date)}${a.date_end?'–'+new Date(a.date_end+'T12:00:00').getDate():''}</div><div><div class="ev">${esc(a.event)}<span class="${a.status==='confirmed'?'ok':a.status==='past'?'past':'un'}">${a.status}</span></div><div class="loc">${esc(a.city)}, ${esc(a.state)} · ${esc(a.venue)}${a.time?' · '+esc(a.time):''}${a.entry?' · '+esc(a.entry):''}</div><div class="loc" style="color:var(--dim);font-size:13px">${a.notes?esc(a.notes)+' · ':''}${esc(a.source)} · checked ${fDT(a.last_verified)}</div></div><a href="${esc(a.url)}" target="_blank" rel="noopener" style="color:var(--muted);font-size:13px">Official page ↗</a></div>`).join('');
+  const tourRow=a=>`<div class="${a.in_region?'hi':''}"><div class="dt">${fMD(a.date)}${a.date_end?'–'+new Date(a.date_end+'T12:00:00').getDate():''}</div><div><div class="ev">${esc(a.event)}<span class="${a.status==='confirmed'?'ok':a.status==='past'?'past':'un'}">${a.status}</span></div><div class="loc">${esc(a.city)}, ${esc(a.state)} · ${esc(a.venue)}${a.time?' · '+esc(a.time):''}${a.entry?' · '+esc(a.entry):''}</div><div class="loc" style="color:var(--dim);font-size:13px">${a.notes?esc(a.notes)+' · ':''}${esc(a.source)} · checked ${fDT(a.last_verified)}</div></div><a href="${esc(a.url)}" target="_blank" rel="noopener" style="color:var(--muted);font-size:13px">Official page ↗</a></div>`;
+  const all=[...APPS].sort((a,b)=>(a.date||'9')<(b.date||'9')?-1:1);
+  $('#tour').innerHTML=all.map(tourRow).join('');
 
   const s2=D.series[1];
   const abBuy=abat.filter(isBuy);
@@ -389,6 +416,41 @@
   $('#batIssue').addEventListener('change',e=>{bi=e.target.value;batGrid();});
   $('#batQ').addEventListener('input',e=>{bq=e.target.value;batGrid();});
   batGrid();
+
+  /* ---------- Skottie Young creator watch ---------- */
+  const CR=(D.creators||[])[0]||{name:'Skottie Young'};
+  const RT={impulse:'IMPULSE',midtown:'MIDTOWN','skottie-shop':'SKOTTIEYOUNG.COM'};
+  const syBuy=SY.filter(isBuy), syPre=SY.filter(l=>l.status==='preorder_open'), today=new Date().toISOString().slice(0,10);
+  const byRet=id=>SY.filter(l=>l.retailer_id===id);
+  const syNew=l=>isNew(l.first_seen)||isNew(l.published_at);
+  $('#syPill').textContent=`${syBuy.length} buyable · ${syPre.length} preorders`;
+  $('#syMonText').textContent=`${SY.length} Skottie Young listings — ${byRet('impulse').length} covers at Impulse, ${byRet('midtown').length} at Midtown Comics, ${byRet('skottie-shop').length} drops on skottieyoung.com — re-verified hourly. Alerts fire on a new cover, a drop, a restock, a sold-out or a price change.`;
+  $('#syStats').innerHTML=[['Impulse covers',byRet('impulse').length,`${byRet('impulse').filter(isBuy).length} buyable`],['Midtown covers',byRet('midtown').length,`${byRet('midtown').filter(isBuy).length} buyable`],['skottieyoung.com drops',byRet('skottie-shop').length,`${byRet('skottie-shop').filter(isBuy).length} with an edition in stock`],['Upcoming releases',SY.filter(l=>l.release_date&&l.release_date>=today).length,'dated after today']].map(([l,n,s])=>`<div><div class="l">${l}</div><div class="n">${n}</div><div class="s">${s}</div></div>`).join('');
+  const drops=[...byRet('skottie-shop')].sort((a,b)=>(b.published_at||'')<(a.published_at||'')?-1:1).slice(0,6);
+  $('#syDrops').innerHTML=drops.map(l=>`<div>${(l.image_local||l.image_url)?IMG(l):'<div></div>'}<div><div class="t">${esc(l.title)}</div><div class="m">${esc(l.variant)} · listed ${fMD((l.published_at||'').slice(0,10))} · ${l.editions?l.editions.filter(e=>e.available).length+' of '+l.editions.length+' editions in stock':''}</div></div><a class="s ${isBuy(l)?'ok':''}" href="${esc(l.listing_url)}" target="_blank" rel="noopener">${STAT[l.status]} ↗</a></div>`).join('')||'<p class="fine">No store listings captured yet.</p>';
+  const syUp=SYA.filter(a=>a.status!=='past'&&a.status!=='cancelled').sort((a,b)=>(a.date||'9')<(b.date||'9')?-1:1)[0];
+  $('#syAppHead').textContent=syUp?`${syUp.city}, ${syUp.state} · ${fMD(syUp.date)}`:'No upcoming appearance listed.';
+  $('#syAppText').textContent=syUp?`${syUp.event}. ${syUp.entry||''}`:`His Appearances page still shows only SDCC (July 23–26). ${SYA.filter(a=>a.status==='past').length} 2026 stops recorded below; the nearest regular one to Tulsa is Planet Comicon Kansas City (2027 show: Apr 2–4). Checked daily.`;
+  $('#syAppPill').textContent=`${SYA.length} recorded · ${syUp?1:0} upcoming`;
+  $('#syTour').innerHTML=[...SYA].sort((a,b)=>(a.date||'9')<(b.date||'9')?-1:1).map(tourRow).join('')||'<div class="quiet">No appearances recorded.</div>';
+  let sk='buy', sq='';
+  function syGrid(){
+    let rows=SY.filter(l=>sk==='all'||(sk==='buy'&&isBuy(l))||(sk==='pre'&&(l.status==='preorder_open'||(l.release_date&&l.release_date>=today)))||(sk==='new'&&syNew(l))||(sk==='impulse'&&l.retailer_id==='impulse')||(sk==='midtown'&&l.retailer_id==='midtown')||(sk==='store'&&l.retailer_id==='skottie-shop')||(sk==='exclusive'&&l.variant_type==='exclusive')||(sk==='signed'&&(l.variant_type==='signed'||/cgc|signed/i.test(l.cover_kind||'')))||(sk==='incentive'&&(l.variant_type==='incentive'||l.variant_type==='virgin'||/incentive|virgin/i.test(l.cover_kind||''))));
+    if(sq){const q=sq.toLowerCase();rows=rows.filter(l=>(l.title+' '+l.variant+' '+(l.retailer_title||'')+' '+(l.publisher||'')).toLowerCase().includes(q));}
+    rows=[...rows].sort((a,b)=>{const s=(isBuy(b)?1:0)-(isBuy(a)?1:0);if(s)return s;const d=(b.release_date||b.published_at||'')<(a.release_date||a.published_at||'')?-1:1;return d;});
+    $('#syCount').textContent=`${rows.length} of ${SY.length} listings · ${syBuy.length} buyable · ${SY.filter(l=>l.status==='sold_out').length} sold out · ${SY.filter(l=>l.status==='needs_verification'||l.status==='unknown').length} awaiting a clean check`;
+    $('#syGrid').innerHTML=rows.map(l=>{const r=ret[l.retailer_id];const price=$$(l.price_usd)+(l.list_price_usd&&l.list_price_usd>l.price_usd?` <s style="color:var(--dim)">${$$(l.list_price_usd)}</s>`:'');
+      const eds=l.editions?`<div class="ed">${l.editions.map(e=>`<span class="${e.available?'y':'n'}">${esc(e.edition.replace(/\s*\$[\d.,]+.*$/,''))} ${$$(e.price_usd)}</span>`).join(' · ')}</div>`:'';
+      return `<div class="cc">${l.cover_letter?`<div class="let">${esc(l.cover_letter)}</div>`:''}<div class="rt">${RT[l.retailer_id]||esc(r.name)}</div><div class="im">${(l.image_url||l.image_local)?IMG(l):'No artwork on the retailer listing yet'}</div>
+      <div class="bd"><div class="nm">${esc(l.title)}${syNew(l)?'<span class="new">NEW</span>':''}</div><div class="ar">${esc(l.variant)}${l.publisher?' · '+esc(l.publisher):''}${l.release_date?' · '+(l.release_date>=today?'due ':'released ')+fMD(l.release_date):''}${l.foc_date&&l.foc_date>=today?' · FOC '+fMD(l.foc_date):''}</div>
+      <div class="pr"><span>${price}</span><span class="s ${stClass(l.status)}">${STAT[l.status]}</span></div>${eds}
+      <a class="lk" href="${esc(l.listing_url)}" target="_blank" rel="noopener">${esc(r.name.split(' (')[0])} listing ↗</a>
+      <div class="ver">${esc(l.evidence||'')}</div>
+      <div class="ver">Checked ${fDT(l.last_verified)}<span class="tag ${l.verification}">${l.verification}</span></div></div></div>`;}).join('')||'<p class="fine">Nothing matches.</p>';
+  }
+  $('#sySeg').addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;$('#sySeg').querySelectorAll('button').forEach(x=>x.classList.toggle('on',x===b));sk=b.dataset.k;syGrid();});
+  $('#syQ').addEventListener('input',e=>{sq=e.target.value;syGrid();});
+  syGrid();
 
   $('#sources').innerHTML=D.sources.map(s=>`<div class="card"><div class="eyebrow">${esc(s.role)}</div><h4>${esc(s.label.split(' — ')[0])}</h4><p>${esc(s.label.split(' — ')[1]||'')}</p><a href="${esc(s.url)}" target="_blank" rel="noopener">Open source ↗</a></div>`).join('');
   $('#dataStatus').textContent=D.meta.data_status+' '+(D.meta.image_policy||'');

@@ -221,7 +221,8 @@ def main(dry=False, budget=0, discover_only=False):
                     add_activity(d, "date_change", f"{row['title']} {row['variant']} at {r['name']}: release date changed from {old['release_date']} to {row['release_date']} (retailer tag).", row["listing_url"], row["series_id"])
     # replace old rows for these retailers with the synced set; keep everything else
     synced_ret = {row["retailer_id"] for row in found}
-    keep = [l for l in d["listings"] if l.get("retailer_id") not in synced_ret]
+    # creator-watch rows (series_id "sy", owned by creator_watch.py) are never touched here
+    keep = [l for l in d["listings"] if l.get("retailer_id") not in synced_ret or l.get("creator_id")]
     d["listings"] = keep + found
     # live-verify every synced row (JSON + visible add-to-cart), sequentially with pacing
     done = 0

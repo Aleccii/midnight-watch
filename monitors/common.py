@@ -15,9 +15,12 @@ def save(d):
     d["meta"]["generated_at"] = now_iso()
     DATA.write_text(json.dumps(d, indent=2, ensure_ascii=False) + "\n")
 
-def add_activity(d, type_, text, url, series_id=None):
+def add_activity(d, type_, text, url, series_id=None, creator_id=None):
+    """Append one activity-feed entry (newest first). creator_id tags entries that
+    belong to a creator watch (e.g. "skottie-young") so the page and the Telegram
+    notifier can label them; series rows leave it None."""
     stamp = now_iso()
     d["activity"].insert(0, {
         "id": f"act-{stamp}-{hashlib.md5((type_+text).encode()).hexdigest()[:6]}",
-        "detected_at": stamp, "type": type_, "series_id": series_id,
+        "detected_at": stamp, "type": type_, "series_id": series_id, "creator_id": creator_id,
         "text": text, "source_url": url})

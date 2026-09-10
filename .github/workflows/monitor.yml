@@ -1,8 +1,8 @@
 name: Midnight Watch monitors
 on:
   schedule:
-    - cron: "7,37 * * * *"
-    - cron: "0 13 * * *"
+    - cron: "7,37 * * * *"   # comic availability scan every 30 min (UTC)
+    - cron: "0 13 * * *"     # daily PKJ appearance scan — 13:00 UTC = 8 AM CDT
   workflow_dispatch:
 permissions:
   contents: write
@@ -15,23 +15,31 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
-      - run: pip install requests
-      - name: Catalog sync + live verification
+      - run: pip install requests pillow
+      - name: Catalog sync + live verification (every 30 min)
         run: python monitors/sync_catalog.py
       - name: Availability scan for non-synced rows
         run: python monitors/check_availability.py
-      - name: Daily appearance scan
+      - name: Skottie Young watch — Impulse, Midtown, skottieyoung.com (hourly; self-gated inside the 30-min runs)
+        run: python monitors/creator_watch.py
+      - name: Daily appearance scan — PKJ (OK/KS) + Skottie Young pages (daily cron or manual run)
         if: github.event.schedule == '0 13 * * *' || github.event_name == 'workflow_dispatch'
         run: python monitors/check_appearances.py
-      - name: Save cover images
-        run: python monitors/fetch_covers.py
+      - name: Save local copies of Midnight Spider-Man + Skottie Young cover images
+        run: python monitors/fetch_covers.py --series=msm,sy
       - name: Rebuild index.html
         run: python build.py
+      - name: Telegram alerts for new activity
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SITE_URL: https://aleccii.github.io/midnight-watch/
+        run: python monitors/notify.py
       - name: Commit changes
         run: |
           git config user.name "midnight-watch-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add data.json index.html covers monitors/.appearance_state.json monitors/.catalog_cache.json
+          git add data.json index.html covers monitors/.appearance_state.json monitors/.catalog_cache.json monitors/.notify_state.json monitors/.creator_cache.json monitors/.creator_state.json
           git diff --cached --quiet || git commit -m "scan: $(date -u +%FT%TZ)"
           git push
   deploy:
