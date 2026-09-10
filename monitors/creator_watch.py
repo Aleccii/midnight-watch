@@ -373,10 +373,18 @@ def merge(d, found, sources_done, cr, retailers):
     return added
 
 
+# Re-check cadence by status. Buyable and preorder rows are the ones that can
+# sell out under you, so they get the hourly pass; a sold-out back issue that
+# restocks can wait a few hours to be noticed, and checking it hourly is what
+# was tripping Impulse's rate limiter.
+RECHECK_MIN = {"available": 55, "preorder_open": 55, "coming_soon": 55, "sold_out": 360, "unknown": 360}
+
+
 def verify(d, rows, cr, retailers, budget, dry, midtown_session=None):
     done = 0
     for row in rows:
-        if fresh(row.get("last_verified")) and row.get("verification") == "live" and not str(row.get("evidence", "")).startswith("Live check failed") and row.get("status") not in (None, "needs_verification"):
+        due_in = RECHECK_MIN.get(row.get("status"), 55)
+        if fresh(row.get("last_verified"), due_in) and row.get("verification") == "live" and not str(row.get("evidence", "")).startswith("Live check failed") and row.get("status") not in (None, "needs_verification"):
             continue
         if budget and done >= budget:
             continue
@@ -427,7 +435,7 @@ def verify(d, rows, cr, retailers, budget, dry, midtown_session=None):
         print(f"{row['id'][:60]:60} {status:>18} {('$%.2f' % row['price_usd']) if row.get('price_usd') is not None else '—':>8}", flush=True)
         if not dry and done % 10 == 0:
             save(d)
-        time.sleep(1.2)
+        time.sleep(0.8)
     return done
 
 
