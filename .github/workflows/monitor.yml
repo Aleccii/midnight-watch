@@ -8,9 +8,15 @@ permissions:
   contents: write
   pages: write
   id-token: write
+# One run at a time. A scheduled run that starts while another is still going
+# waits in line instead of racing it to the commit step.
+concurrency:
+  group: midnight-watch-scan
+  cancel-in-progress: false
 jobs:
   scan:
     runs-on: ubuntu-latest
+    timeout-minutes: 50
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -41,7 +47,12 @@ jobs:
           git config user.email "bot@users.noreply.github.com"
           git add data.json index.html covers monitors/.appearance_state.json monitors/.catalog_cache.json monitors/.notify_state.json monitors/.creator_cache.json monitors/.creator_state.json
           git diff --cached --quiet || git commit -m "scan: $(date -u +%FT%TZ)"
-          git push
+          # Another run (or a manual push) may have landed while this one worked.
+          # Pull it in, keep this run's freshly generated files where they overlap, then push.
+          for i in 1 2 3 4 5; do
+            git pull --rebase -X theirs --no-edit origin main && git push && break
+            echo "push attempt $i failed - retrying"; sleep $((10 * i))
+          done
   deploy:
     needs: scan
     runs-on: ubuntu-latest
