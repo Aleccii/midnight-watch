@@ -1,9 +1,9 @@
-"""Shared helpers for the Midnight Watch monitors."""
+"""Shared helpers for the KNIGHTWATCH BOT monitors."""
 import json, hashlib, pathlib, datetime, zoneinfo
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATA = ROOT / "data.json"
 CT = zoneinfo.ZoneInfo("America/Chicago")
-UA = {"User-Agent": "MidnightWatch/1.0 (hobby availability monitor; contact in README)"}
+UA = {"User-Agent": "KnightwatchBot/1.0 (hobby availability monitor; contact in README)"}
 
 def now_iso():
     return datetime.datetime.now(CT).replace(microsecond=0).isoformat()

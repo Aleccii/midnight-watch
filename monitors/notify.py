@@ -54,7 +54,7 @@ def main():
     last = state.get("last_sent_at")
     if not last:
         n = len(d.get("listings", []))
-        send(token, chat_id, f"🕛 <b>Midnight Watch connected.</b>\nTracking {n} listings. You'll get a message here whenever something meaningful changes." + (f"\n{SITE}" if SITE else ""))
+        send(token, chat_id, f"🛡 <b>KNIGHTWATCH BOT connected.</b>\nTracking {n} listings. You'll get a message here whenever something meaningful changes." + (f"\n{SITE}" if SITE else ""))
         STATE.write_text(json.dumps({"last_sent_at": acts[0]["detected_at"] if acts else ""}))
         return
     new = [a for a in reversed(acts) if a["detected_at"] > last]
