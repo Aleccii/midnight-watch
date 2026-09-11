@@ -1,4 +1,4 @@
-# Midnight Watch — Tulsa Release Tracker
+# KNIGHTWATCH BOT — Tulsa Release Tracker
 
 Public dashboard + scheduled monitors for **Midnight Spider-Man** (Marvel) and **Absolute Batman** (DC) availability across Tulsa-metro retailers, **Phillip Kennedy Johnson (PKJ)** appearances in Oklahoma and Kansas, and — new in this build — a **Skottie Young watch**: his cover variants at Impulse Creations and Midtown Comics, his signed / artist-exclusive / CGC drops on skottieyoung.com, and his convention and signing appearances.
 
@@ -98,7 +98,7 @@ python build.py                               # rebuilds index.html
 2. Open a chat with your new bot and send it any message (bots can't message you first).
 3. Get your chat id: message **@userinfobot** and it replies with your numeric id. For a group, add the bot to the group and use the group's id (negative number).
 4. In the GitHub repo: Settings → Secrets and variables → Actions → **New repository secret**, twice: `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID`.
-5. Actions → Midnight Watch monitors → Run workflow. The first run sends one "connected" message and sets a baseline; every later run sends only what changed.
+5. Actions → KNIGHTWATCH BOT monitors → Run workflow. The first run sends one "connected" message and sets a baseline; every later run sends only what changed.
 
 Missing secrets never break a scan — the step just prints a note and moves on.
 
@@ -109,7 +109,7 @@ The site is three static files; anyone with the URL can open it.
 **GitHub Pages (free, includes the scheduler)**
 1. Create a public repo, push this folder.
 2. Settings → Pages → Source: **GitHub Actions**.
-3. Actions → *Midnight Watch monitors* → **Run workflow** once to seed the state file.
+3. Actions → *KNIGHTWATCH BOT monitors* → **Run workflow** once to seed the state file.
 4. Site is live at `https://<user>.github.io/<repo>/`. Every scan that changes something redeploys automatically.
 
 **Netlify / Cloudflare Pages / Vercel**: drag-and-drop the folder or connect the repo; no build command needed (or `python build.py`). Keep the GitHub Action for the scans, or run the scripts from any cron host that can push to the repo.
