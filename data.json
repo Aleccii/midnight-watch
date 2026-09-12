@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Midnight Watch — Tulsa Release Tracker",
-    "generated_at": "2026-09-12T08:26:10-05:00",
+    "generated_at": "2026-09-12T08:41:14-05:00",
     "timezone": "America/Chicago",
     "availability_scan": "every 30 minutes",
     "appearance_scan": "daily",
@@ -582,7 +582,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:15:30-05:00",
+      "last_verified": "2026-09-12T08:29:50-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -612,7 +612,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:15:30-05:00",
+      "last_verified": "2026-09-12T08:29:51-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -642,7 +642,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:15:31-05:00",
+      "last_verified": "2026-09-12T08:29:51-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -672,7 +672,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:15:32-05:00",
+      "last_verified": "2026-09-12T08:29:52-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -702,7 +702,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:15:33-05:00",
+      "last_verified": "2026-09-12T08:29:52-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -732,7 +732,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:15:34-05:00",
+      "last_verified": "2026-09-12T08:29:53-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -762,7 +762,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:15:34-05:00",
+      "last_verified": "2026-09-12T08:29:53-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -792,7 +792,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:15:35-05:00",
+      "last_verified": "2026-09-12T08:29:54-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -822,7 +822,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:15:36-05:00",
+      "last_verified": "2026-09-12T08:29:55-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -852,7 +852,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:15:38-05:00",
+      "last_verified": "2026-09-12T08:29:55-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -882,7 +882,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:15:40-05:00",
+      "last_verified": "2026-09-12T08:29:56-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -912,7 +912,7 @@
       "signed_by": null,
       "printing": "Eighth",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:15:41-05:00",
+      "last_verified": "2026-09-12T08:29:56-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -942,7 +942,7 @@
       "signed_by": null,
       "printing": "Eleventh",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:15:41-05:00",
+      "last_verified": "2026-09-12T08:29:57-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -972,7 +972,7 @@
       "signed_by": null,
       "printing": "Fifth",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:15:42-05:00",
+      "last_verified": "2026-09-12T08:29:57-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -1002,7 +1002,7 @@
       "signed_by": null,
       "printing": "Fifth",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:15:43-05:00",
+      "last_verified": "2026-09-12T08:29:58-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -1032,8 +1032,9 @@
       "signed_by": null,
       "printing": "Fourth",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:05:21-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
+      "last_verified": "2026-09-12T08:29:58-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "preorder": "closed"
     },
     {
       "id": "impulse-absolute-batman-1-fourth-printing-cvr-b-by-simone-di-meo",
@@ -1061,8 +1062,9 @@
       "signed_by": null,
       "printing": "Fourth",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:05:22-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
+      "last_verified": "2026-09-12T08:29:59-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "preorder": "closed"
     },
     {
       "id": "impulse-absolute-batman-1-fourth-printing-cvr-d-blank-sketch-variant-cover",
@@ -1090,7 +1092,7 @@
       "signed_by": null,
       "printing": "Fourth",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:15:44-05:00",
+      "last_verified": "2026-09-12T08:30:00-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -1120,7 +1122,7 @@
       "signed_by": null,
       "printing": "Fourth",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:15:45-05:00",
+      "last_verified": "2026-09-12T08:30:00-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -1150,7 +1152,7 @@
       "signed_by": null,
       "printing": "Fourth",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:15:46-05:00",
+      "last_verified": "2026-09-12T08:30:01-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -1180,8 +1182,9 @@
       "signed_by": null,
       "printing": "Ninth",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:05:23-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
+      "last_verified": "2026-09-12T08:30:02-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "preorder": "closed"
     },
     {
       "id": "impulse-absolute-batman-1-second-printing-cvr-a-nick-dragotta",
@@ -1209,8 +1212,9 @@
       "signed_by": null,
       "printing": "Second",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:05:24-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
+      "last_verified": "2026-09-12T08:30:02-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "preorder": "closed"
     },
     {
       "id": "impulse-absolute-batman-1-second-printing-cvr-b-mike-deodato-card-stock-var",
@@ -1238,7 +1242,7 @@
       "signed_by": null,
       "printing": "Second",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:15:47-05:00",
+      "last_verified": "2026-09-12T08:30:03-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -1268,7 +1272,7 @@
       "signed_by": null,
       "printing": "Second",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:15:48-05:00",
+      "last_verified": "2026-09-12T08:30:03-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -1298,7 +1302,7 @@
       "signed_by": null,
       "printing": "Second",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:15:49-05:00",
+      "last_verified": "2026-09-12T08:30:04-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -1328,7 +1332,7 @@
       "signed_by": null,
       "printing": "Seventh",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:15:49-05:00",
+      "last_verified": "2026-09-12T08:30:05-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -1358,7 +1362,7 @@
       "signed_by": null,
       "printing": "Seventh",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:15:50-05:00",
+      "last_verified": "2026-09-12T08:30:05-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -1388,7 +1392,7 @@
       "signed_by": null,
       "printing": "Seventh",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:15:51-05:00",
+      "last_verified": "2026-09-12T08:30:06-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -1418,7 +1422,7 @@
       "signed_by": null,
       "printing": "Sixth",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:15:51-05:00",
+      "last_verified": "2026-09-12T08:30:06-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -1448,7 +1452,7 @@
       "signed_by": null,
       "printing": "Sixth",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:15:52-05:00",
+      "last_verified": "2026-09-12T08:30:07-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -1478,7 +1482,7 @@
       "signed_by": null,
       "printing": "Sixth",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:15:53-05:00",
+      "last_verified": "2026-09-12T08:30:08-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -1508,8 +1512,9 @@
       "signed_by": null,
       "printing": "Tenth",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:23:58-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
+      "last_verified": "2026-09-12T08:30:08-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "preorder": "closed"
     },
     {
       "id": "impulse-absolute-batman-1-tenth-printing-inhyuk-lee-card-stock-variant",
@@ -1537,8 +1542,9 @@
       "signed_by": null,
       "printing": "Tenth",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:23:58-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
+      "last_verified": "2026-09-12T08:30:09-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "preorder": "closed"
     },
     {
       "id": "impulse-absolute-batman-1-tenth-printing-cvr-c-inhyuk-lee-foil-var",
@@ -1566,8 +1572,9 @@
       "signed_by": null,
       "printing": "Tenth",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:23:59-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
+      "last_verified": "2026-09-12T08:26:49-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "preorder": "closed"
     },
     {
       "id": "impulse-absolute-batman-1-third-printing-cvr-a-nick-dragotta",
@@ -1595,8 +1602,9 @@
       "signed_by": null,
       "printing": "Third",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:23:59-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
+      "last_verified": "2026-09-12T08:26:50-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "preorder": "closed"
     },
     {
       "id": "impulse-absolute-batman-1-third-printing-cvr-b-jerome-opena-card-stock-var",
@@ -1624,8 +1632,9 @@
       "signed_by": null,
       "printing": "Third",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:24:00-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
+      "last_verified": "2026-09-12T08:26:50-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "preorder": "closed"
     },
     {
       "id": "impulse-absolute-batman-1-third-printing-cvr-c-nick-dragotta-foil-var",
@@ -1653,8 +1662,9 @@
       "signed_by": null,
       "printing": "Third",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:24:01-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
+      "last_verified": "2026-09-12T08:26:52-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "preorder": "closed"
     },
     {
       "id": "impulse-absolute-batman-1-third-printing-cvr-d-inc-1-25-nick-dragotta-inks-card-stock-var",
@@ -1682,8 +1692,9 @@
       "signed_by": null,
       "printing": "Third",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:24:01-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
+      "last_verified": "2026-09-12T08:26:53-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "preorder": "closed"
     },
     {
       "id": "impulse-absolute-batman-1-twelfth-printing",
@@ -1711,8 +1722,9 @@
       "signed_by": null,
       "printing": "Twelfth",
       "status": "available",
-      "last_verified": "2026-09-12T07:24:02-05:00",
-      "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form"
+      "last_verified": "2026-09-12T08:26:53-05:00",
+      "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
+      "preorder": "n/a"
     },
     {
       "id": "impulse-absolute-batman-10-cvr-a-nick-dragotta",
@@ -1740,8 +1752,9 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:24:02-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
+      "last_verified": "2026-09-12T08:26:55-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "preorder": "closed"
     },
     {
       "id": "impulse-absolute-batman-10-cvr-a-nick-dragotta-signed-by-scott-snyder",
@@ -1798,8 +1811,9 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:24:03-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
+      "last_verified": "2026-09-12T08:26:56-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "preorder": "closed"
     },
     {
       "id": "impulse-absolute-batman-10-cvr-c-guillem-march-card-stock-var",
@@ -1885,8 +1899,9 @@
       "signed_by": "Scott Snyder",
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:24:04-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
+      "last_verified": "2026-09-12T08:26:57-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "preorder": "closed"
     },
     {
       "id": "impulse-absolute-batman-10-cvr-e-inc-1-50-shawn-crystal-card-stock-var",
@@ -1972,8 +1987,9 @@
       "signed_by": null,
       "printing": "Fifth",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:24:05-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
+      "last_verified": "2026-09-12T08:26:58-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "preorder": "closed"
     },
     {
       "id": "impulse-absolute-batman-10-fourth-printing",
@@ -2030,8 +2046,9 @@
       "signed_by": null,
       "printing": "Second",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:24:06-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
+      "last_verified": "2026-09-12T08:26:58-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "preorder": "closed"
     },
     {
       "id": "impulse-absolute-batman-10-third-printing",
@@ -2059,8 +2076,9 @@
       "signed_by": null,
       "printing": "Third",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:24:07-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
+      "last_verified": "2026-09-12T08:26:59-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "preorder": "closed"
     },
     {
       "id": "impulse-absolute-batman-11-cvr-a-nick-dragotta",
@@ -2088,8 +2106,9 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:24:07-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
+      "last_verified": "2026-09-12T08:27:00-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "preorder": "closed"
     },
     {
       "id": "impulse-absolute-batman-11-cvr-a-nick-dragotta-signed-by-scott-snyder",
@@ -2117,8 +2136,9 @@
       "signed_by": "Scott Snyder",
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:24:08-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
+      "last_verified": "2026-09-12T08:27:01-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "preorder": "closed"
     },
     {
       "id": "impulse-absolute-batman-11-cvr-b-lee-garbett-card-stock-var",
@@ -2378,8 +2398,9 @@
       "signed_by": null,
       "printing": "Fifth",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:24:10-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
+      "last_verified": "2026-09-12T08:27:02-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "preorder": "closed"
     },
     {
       "id": "impulse-absolute-batman-11-fourth-printing",
@@ -2407,8 +2428,9 @@
       "signed_by": null,
       "printing": "Fourth",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:24:10-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
+      "last_verified": "2026-09-12T08:27:03-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "preorder": "closed"
     },
     {
       "id": "impulse-absolute-batman-11-second-printing",
@@ -2436,8 +2458,9 @@
       "signed_by": null,
       "printing": "Second",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:24:11-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
+      "last_verified": "2026-09-12T08:27:04-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "preorder": "closed"
     },
     {
       "id": "impulse-absolute-batman-11-third-printing",
@@ -2552,8 +2575,9 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:24:12-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
+      "last_verified": "2026-09-12T08:27:05-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "preorder": "closed"
     },
     {
       "id": "impulse-absolute-batman-12-cvr-d-stevan-subic-glow-in-the-dark-var",
@@ -2610,8 +2634,9 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:24:13-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
+      "last_verified": "2026-09-12T08:27:06-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "preorder": "closed"
     },
     {
       "id": "impulse-absolute-batman-12-cvr-f-inc-1-50-paul-pope-virgin-card-stock-var",
@@ -2639,8 +2664,9 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:24:14-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
+      "last_verified": "2026-09-12T08:27:07-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "preorder": "closed"
     },
     {
       "id": "impulse-absolute-batman-12-fifth-printing",
@@ -2784,8 +2810,9 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:24:15-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
+      "last_verified": "2026-09-12T08:27:08-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "preorder": "closed"
     },
     {
       "id": "impulse-absolute-batman-13-cvr-b-stanley-argerm-lau-card-stock-var",
@@ -2842,8 +2869,9 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:24:16-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
+      "last_verified": "2026-09-12T08:27:09-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "preorder": "closed"
     },
     {
       "id": "impulse-absolute-batman-13-cvr-d-adam-hughes-card-stock-var",
@@ -2958,8 +2986,9 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:24:17-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
+      "last_verified": "2026-09-12T08:27:09-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "preorder": "closed"
     },
     {
       "id": "impulse-absolute-batman-13-cvr-h-inc-1-25-david-nakayama-card-stock-var",
@@ -3132,8 +3161,9 @@
       "signed_by": null,
       "printing": "Third",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:24:18-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
+      "last_verified": "2026-09-12T08:27:10-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "preorder": "closed"
     },
     {
       "id": "impulse-absolute-batman-14-cvr-a-nick-dragotta",
@@ -3161,8 +3191,9 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:24:19-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
+      "last_verified": "2026-09-12T08:27:11-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "preorder": "closed"
     },
     {
       "id": "impulse-absolute-batman-14-cvr-b-dave-johnson-card-stock-var",
@@ -3393,8 +3424,9 @@
       "signed_by": null,
       "printing": "Second",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:23:16-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
+      "last_verified": "2026-09-12T08:27:12-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "preorder": "closed"
     },
     {
       "id": "impulse-absolute-batman-14-third-printing",
@@ -3538,8 +3570,9 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:23:17-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
+      "last_verified": "2026-09-12T08:27:13-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "preorder": "closed"
     },
     {
       "id": "impulse-absolute-batman-15-cvr-e-inc-1-25-sanford-greene-card-stock-var",
@@ -3828,8 +3861,9 @@
       "signed_by": null,
       "printing": "Second",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:24:22-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
+      "last_verified": "2026-09-12T08:27:14-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "preorder": "closed"
     },
     {
       "id": "impulse-absolute-batman-15-second-printing-cvr-f-jock-brian-bolland-foil-var",
@@ -4321,8 +4355,9 @@
       "signed_by": null,
       "printing": "Second",
       "status": "available",
-      "last_verified": "2026-09-12T07:24:24-05:00",
-      "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form"
+      "last_verified": "2026-09-12T08:27:15-05:00",
+      "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
+      "preorder": "n/a"
     },
     {
       "id": "impulse-absolute-batman-18-cvr-a-nick-dragotta",
@@ -5394,8 +5429,9 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:24:28-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
+      "last_verified": "2026-09-12T08:27:16-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "preorder": "closed"
     },
     {
       "id": "impulse-absolute-batman-20-cvr-e-inc-1-25-martin-simmonds-card-stock-var",
@@ -5945,9 +5981,8 @@
       "signed_by": null,
       "printing": "First",
       "status": "available",
-      "last_verified": "2026-09-12T08:16:12-05:00",
-      "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
-      "preorder": null
+      "last_verified": "2026-09-12T07:56:04-05:00",
+      "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form"
     },
     {
       "id": "impulse-absolute-batman-23-cvr-d-juan-ferreyra-card-stock-var",
@@ -6265,8 +6300,9 @@
       "signed_by": null,
       "printing": "First",
       "status": "preorder_open",
-      "last_verified": "2026-09-12T07:24:31-05:00",
-      "evidence": "Storefront JS available=true and enabled 'Pre-order' button in the /cart/add form"
+      "last_verified": "2026-09-12T08:27:17-05:00",
+      "evidence": "Storefront JS available=true and enabled 'Pre-order' button in the /cart/add form",
+      "preorder": "open"
     },
     {
       "id": "impulse-absolute-batman-25-cvr-d-bryan-hitch-connecting-card-stock-var",
@@ -6468,8 +6504,9 @@
       "signed_by": null,
       "printing": "First",
       "status": "preorder_open",
-      "last_verified": "2026-09-12T07:24:33-05:00",
-      "evidence": "Storefront JS available=true and enabled 'Pre-order' button in the /cart/add form"
+      "last_verified": "2026-09-12T08:27:28-05:00",
+      "evidence": "Storefront JS available=true and enabled 'Pre-order' button in the /cart/add form",
+      "preorder": "open"
     },
     {
       "id": "impulse-absolute-batman-25-cvr-k-inc-1-25-lewis-larosa-card-stock-var",
@@ -6497,8 +6534,9 @@
       "signed_by": null,
       "printing": "First",
       "status": "preorder_open",
-      "last_verified": "2026-09-12T07:23:18-05:00",
-      "evidence": "Storefront JS available=true and enabled 'Pre-order' button in the /cart/add form"
+      "last_verified": "2026-09-12T08:27:29-05:00",
+      "evidence": "Storefront JS available=true and enabled 'Pre-order' button in the /cart/add form",
+      "preorder": "open"
     },
     {
       "id": "impulse-absolute-batman-3-cvr-a-nick-dragotta",
@@ -6816,8 +6854,9 @@
       "signed_by": null,
       "printing": "Sixth",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:24:35-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
+      "last_verified": "2026-09-12T08:27:30-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "preorder": "closed"
     },
     {
       "id": "impulse-absolute-batman-3-third-printing",
@@ -7686,8 +7725,9 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:24:39-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
+      "last_verified": "2026-09-12T08:27:41-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "preorder": "closed"
     },
     {
       "id": "impulse-absolute-batman-6-fifth-printing",
@@ -8121,8 +8161,9 @@
       "signed_by": null,
       "printing": "Sixth",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:24:41-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
+      "last_verified": "2026-09-12T08:27:42-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "preorder": "closed"
     },
     {
       "id": "impulse-absolute-batman-7-third-printing",
@@ -9078,9 +9119,8 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:16:25-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "preorder": "closed"
+      "last_verified": "2026-09-12T08:00:02-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
     },
     {
       "id": "impulse-absolute-batman-2025-annual-1-one-shot-cvr-c-james-harren-card-stock-var",
@@ -9987,8 +10027,9 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:24:48-05:00",
-      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')"
+      "last_verified": "2026-09-12T08:27:43-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "preorder": "closed"
     },
     {
       "id": "impulse-absolute-batman-noir-edition-1-one-shot-cvr-c-nick-dragotta-foil-var",
@@ -10650,9 +10691,10 @@
       "format": "single issue",
       "signed_by": null,
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:23:20-05:00",
+      "last_verified": "2026-09-12T08:27:54-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "image_local": "covers/impulse-midnight-spider-man-1-1-100-tbd-artist-virgin-variant.jpg"
+      "image_local": "covers/impulse-midnight-spider-man-1-1-100-tbd-artist-virgin-variant.jpg",
+      "preorder": "closed"
     },
     {
       "id": "impulse-midnight-spider-man-1-1-50-peach-momoko-midnight-special-virgin-variant-signed-by-",
@@ -10741,9 +10783,10 @@
       "format": "single issue (signed)",
       "signed_by": "Phillip Kennedy Johnson",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:23:21-05:00",
+      "last_verified": "2026-09-12T08:27:55-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
-      "image_local": "covers/impulse-midnight-spider-man-1-1-100-cover-j-inhyuk-lee-virgin-variant-signed-by-phillip-ke.jpg"
+      "image_local": "covers/impulse-midnight-spider-man-1-1-100-cover-j-inhyuk-lee-virgin-variant-signed-by-phillip-ke.jpg",
+      "preorder": "closed"
     },
     {
       "id": "impulse-midnight-spider-man-2-cover-a",
@@ -10801,9 +10844,10 @@
       "format": "single issue",
       "signed_by": null,
       "status": "preorder_open",
-      "last_verified": "2026-09-12T07:23:22-05:00",
+      "last_verified": "2026-09-12T08:27:56-05:00",
       "evidence": "Storefront JS available=true and enabled 'Pre-order' button in the /cart/add form",
-      "image_local": "covers/impulse-midnight-spider-man-2-cover-c-peach-momoko-midnight-special-variant.jpg"
+      "image_local": "covers/impulse-midnight-spider-man-2-cover-c-peach-momoko-midnight-special-variant.jpg",
+      "preorder": "open"
     },
     {
       "id": "impulse-midnight-spider-man-2-cover-d-ito-midnight-horror-homage-variant",
@@ -10947,7 +10991,7 @@
       "signed_by": null,
       "printing": "7Th",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:16:33-05:00",
+      "last_verified": "2026-09-12T08:30:48-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -10977,7 +11021,7 @@
       "signed_by": null,
       "printing": "7Th",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:16:33-05:00",
+      "last_verified": "2026-09-12T08:30:48-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -11007,7 +11051,7 @@
       "signed_by": null,
       "printing": "7Th",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:16:34-05:00",
+      "last_verified": "2026-09-12T08:30:49-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -11037,7 +11081,7 @@
       "signed_by": null,
       "printing": "Eighth",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:16:35-05:00",
+      "last_verified": "2026-09-12T08:30:49-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -11067,7 +11111,7 @@
       "signed_by": null,
       "printing": "Eleventh",
       "status": "needs_verification",
-      "last_verified": "2026-09-12T08:16:36-05:00",
+      "last_verified": "2026-09-12T08:30:50-05:00",
       "evidence": "Contradictory signals (js_available=True, button='', disabled=False)",
       "preorder": null
     },
@@ -11097,7 +11141,7 @@
       "signed_by": null,
       "printing": "Fourth",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:16:36-05:00",
+      "last_verified": "2026-09-12T08:30:51-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -11127,7 +11171,7 @@
       "signed_by": null,
       "printing": "Ninth",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:16:37-05:00",
+      "last_verified": "2026-09-12T08:30:51-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -11157,7 +11201,7 @@
       "signed_by": null,
       "printing": "Sixth",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:16:38-05:00",
+      "last_verified": "2026-09-12T08:30:52-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -11187,7 +11231,7 @@
       "signed_by": null,
       "printing": "Sixth",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:16:38-05:00",
+      "last_verified": "2026-09-12T08:30:52-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -11217,7 +11261,7 @@
       "signed_by": null,
       "printing": "Tenth",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:16:39-05:00",
+      "last_verified": "2026-09-12T08:30:53-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -11247,7 +11291,7 @@
       "signed_by": null,
       "printing": "Tenth",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:16:40-05:00",
+      "last_verified": "2026-09-12T08:30:53-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -11277,7 +11321,7 @@
       "signed_by": null,
       "printing": "Tenth",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:16:40-05:00",
+      "last_verified": "2026-09-12T08:30:54-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -11307,7 +11351,7 @@
       "signed_by": null,
       "printing": "Twelfth",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:16:41-05:00",
+      "last_verified": "2026-09-12T08:30:54-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -11337,7 +11381,7 @@
       "signed_by": null,
       "printing": "Second",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:16:41-05:00",
+      "last_verified": "2026-09-12T08:30:55-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -11367,7 +11411,7 @@
       "signed_by": null,
       "printing": "3Rd",
       "status": "needs_verification",
-      "last_verified": "2026-09-12T08:16:43-05:00",
+      "last_verified": "2026-09-12T08:30:55-05:00",
       "evidence": "Contradictory signals (js_available=True, button='', disabled=False)",
       "preorder": null
     },
@@ -11397,7 +11441,7 @@
       "signed_by": null,
       "printing": "5Th",
       "status": "needs_verification",
-      "last_verified": "2026-09-12T08:16:43-05:00",
+      "last_verified": "2026-09-12T08:30:56-05:00",
       "evidence": "Contradictory signals (js_available=True, button='', disabled=False)",
       "preorder": null
     },
@@ -11427,7 +11471,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:16:44-05:00",
+      "last_verified": "2026-09-12T08:30:56-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -11457,7 +11501,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:16:44-05:00",
+      "last_verified": "2026-09-12T08:30:57-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -11487,7 +11531,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:16:45-05:00",
+      "last_verified": "2026-09-12T08:30:58-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -11517,7 +11561,7 @@
       "signed_by": null,
       "printing": "3Rd",
       "status": "needs_verification",
-      "last_verified": "2026-09-12T08:16:46-05:00",
+      "last_verified": "2026-09-12T08:30:58-05:00",
       "evidence": "Contradictory signals (js_available=True, button='', disabled=False)",
       "preorder": null
     },
@@ -11547,7 +11591,7 @@
       "signed_by": null,
       "printing": "5Th",
       "status": "needs_verification",
-      "last_verified": "2026-09-12T08:16:46-05:00",
+      "last_verified": "2026-09-12T08:30:59-05:00",
       "evidence": "Contradictory signals (js_available=True, button='', disabled=False)",
       "preorder": null
     },
@@ -11577,7 +11621,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:16:47-05:00",
+      "last_verified": "2026-09-12T08:30:59-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -11607,7 +11651,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:16:48-05:00",
+      "last_verified": "2026-09-12T08:31:00-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -11637,7 +11681,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:16:48-05:00",
+      "last_verified": "2026-09-12T08:31:00-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -11667,7 +11711,7 @@
       "signed_by": null,
       "printing": "Second",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:16:49-05:00",
+      "last_verified": "2026-09-12T08:31:01-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -11697,9 +11741,9 @@
       "signed_by": null,
       "printing": "3Rd",
       "status": "needs_verification",
-      "last_verified": "2026-09-12T08:16:50-05:00",
+      "last_verified": "2026-09-12T08:31:01-05:00",
       "evidence": "Contradictory signals (js_available=True, button='', disabled=False)",
-      "preorder": null
+      "preorder": "n/a"
     },
     {
       "id": "route66-0626dc8528-absolute-batman-12",
@@ -11727,9 +11771,9 @@
       "signed_by": null,
       "printing": "5Th",
       "status": "needs_verification",
-      "last_verified": "2026-09-12T08:16:50-05:00",
+      "last_verified": "2026-09-12T08:31:02-05:00",
       "evidence": "Contradictory signals (js_available=True, button='', disabled=False)",
-      "preorder": null
+      "preorder": "n/a"
     },
     {
       "id": "route66-0725dc025-absolute-batman-12",
@@ -11757,7 +11801,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:16:52-05:00",
+      "last_verified": "2026-09-12T08:31:02-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -11787,7 +11831,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:16:53-05:00",
+      "last_verified": "2026-09-12T08:31:03-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -11817,7 +11861,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:16:54-05:00",
+      "last_verified": "2026-09-12T08:31:03-05:00",
       "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
       "preorder": "closed"
     },
@@ -11847,8 +11891,9 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:25:07-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
+      "last_verified": "2026-09-12T08:31:04-05:00",
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
+      "preorder": "closed"
     },
     {
       "id": "route66-0925dc8260-absolute-batman-13",
@@ -11876,8 +11921,9 @@
       "signed_by": null,
       "printing": "Second",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:25:08-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
+      "last_verified": "2026-09-12T08:28:06-05:00",
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
+      "preorder": "closed"
     },
     {
       "id": "route66-0925dc8261-absolute-batman-13",
@@ -11905,8 +11951,9 @@
       "signed_by": null,
       "printing": "Second",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:25:08-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
+      "last_verified": "2026-09-12T08:28:07-05:00",
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
+      "preorder": "closed"
     },
     {
       "id": "route66-0126dc8156-absolute-batman-13",
@@ -11934,8 +11981,9 @@
       "signed_by": null,
       "printing": "3Rd",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:25:09-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
+      "last_verified": "2026-09-12T08:28:08-05:00",
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
+      "preorder": "closed"
     },
     {
       "id": "route66-0626dc8529-absolute-batman-13",
@@ -11963,8 +12011,9 @@
       "signed_by": null,
       "printing": "4Th",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:25:09-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
+      "last_verified": "2026-09-12T08:28:09-05:00",
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
+      "preorder": "closed"
     },
     {
       "id": "route66-0825dc0047-absolute-batman-13",
@@ -11992,8 +12041,9 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:25:10-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
+      "last_verified": "2026-09-12T08:28:10-05:00",
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
+      "preorder": "closed"
     },
     {
       "id": "route66-0825dc0048-absolute-batman-13",
@@ -12021,8 +12071,9 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:25:10-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
+      "last_verified": "2026-09-12T08:28:10-05:00",
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
+      "preorder": "closed"
     },
     {
       "id": "route66-0825dc0049-absolute-batman-13",
@@ -12050,8 +12101,9 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:25:11-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
+      "last_verified": "2026-09-12T08:28:11-05:00",
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
+      "preorder": "closed"
     },
     {
       "id": "route66-0825dc0050-absolute-batman-13",
@@ -12079,8 +12131,9 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:25:11-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
+      "last_verified": "2026-09-12T08:28:12-05:00",
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
+      "preorder": "closed"
     },
     {
       "id": "route66-0825dc0052-absolute-batman-13",
@@ -12108,8 +12161,9 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:25:12-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
+      "last_verified": "2026-09-12T08:28:13-05:00",
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
+      "preorder": "closed"
     },
     {
       "id": "route66-1225dc8028-absolute-batman-14",
@@ -12137,8 +12191,9 @@
       "signed_by": null,
       "printing": "Second",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:25:12-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
+      "last_verified": "2026-09-12T08:28:14-05:00",
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
+      "preorder": "closed"
     },
     {
       "id": "route66-1225dc8029-absolute-batman-14",
@@ -12166,8 +12221,9 @@
       "signed_by": null,
       "printing": "Second",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:25:13-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
+      "last_verified": "2026-09-12T08:28:15-05:00",
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
+      "preorder": "closed"
     },
     {
       "id": "route66-0126dc8157-absolute-batman-14",
@@ -12195,8 +12251,9 @@
       "signed_by": null,
       "printing": "3Rd",
       "status": "needs_verification",
-      "last_verified": "2026-09-12T07:25:13-05:00",
-      "evidence": "Contradictory signals (js_available=True, button='', disabled=False)"
+      "last_verified": "2026-09-12T08:28:16-05:00",
+      "evidence": "Contradictory signals (js_available=True, button='', disabled=False)",
+      "preorder": "n/a"
     },
     {
       "id": "route66-0626dc8530-absolute-batman-14",
@@ -12224,8 +12281,9 @@
       "signed_by": null,
       "printing": "4Th",
       "status": "needs_verification",
-      "last_verified": "2026-09-12T07:25:14-05:00",
-      "evidence": "Contradictory signals (js_available=True, button='', disabled=False)"
+      "last_verified": "2026-09-12T08:28:17-05:00",
+      "evidence": "Contradictory signals (js_available=True, button='', disabled=False)",
+      "preorder": "n/a"
     },
     {
       "id": "route66-0925dc0053-absolute-batman-14",
@@ -12253,8 +12311,9 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:25:15-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
+      "last_verified": "2026-09-12T08:28:18-05:00",
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
+      "preorder": "closed"
     },
     {
       "id": "route66-0925dc0054-absolute-batman-14",
@@ -12282,8 +12341,9 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:25:15-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
+      "last_verified": "2026-09-12T08:28:19-05:00",
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
+      "preorder": "closed"
     },
     {
       "id": "route66-0925dc0055-absolute-batman-14",
@@ -12311,8 +12371,9 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:25:16-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
+      "last_verified": "2026-09-12T08:28:20-05:00",
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
+      "preorder": "closed"
     },
     {
       "id": "route66-0925dc8349-absolute-batman-14",
@@ -12340,8 +12401,9 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:25:17-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
+      "last_verified": "2026-09-12T08:28:21-05:00",
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
+      "preorder": "closed"
     },
     {
       "id": "route66-1225dc8030-absolute-batman-15",
@@ -12369,8 +12431,9 @@
       "signed_by": null,
       "printing": "Second",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:25:18-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
+      "last_verified": "2026-09-12T08:28:22-05:00",
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
+      "preorder": "closed"
     },
     {
       "id": "route66-1225dc8031-absolute-batman-15",
@@ -12398,8 +12461,9 @@
       "signed_by": null,
       "printing": "Second",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:25:18-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
+      "last_verified": "2026-09-12T08:28:23-05:00",
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
+      "preorder": "closed"
     },
     {
       "id": "route66-1225dc8032-absolute-batman-15",
@@ -12427,8 +12491,9 @@
       "signed_by": null,
       "printing": "Second",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:25:20-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
+      "last_verified": "2026-09-12T08:28:24-05:00",
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
+      "preorder": "closed"
     },
     {
       "id": "route66-1225dc8033-absolute-batman-15",
@@ -12485,8 +12550,9 @@
       "signed_by": null,
       "printing": "Second",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:25:21-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
+      "last_verified": "2026-09-12T08:28:25-05:00",
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
+      "preorder": "closed"
     },
     {
       "id": "route66-1225dc8035-absolute-batman-15",
@@ -12601,8 +12667,9 @@
       "signed_by": null,
       "printing": "4Th",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:25:22-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
+      "last_verified": "2026-09-12T08:28:26-05:00",
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
+      "preorder": "closed"
     },
     {
       "id": "route66-0426dc8397-absolute-batman-15",
@@ -12630,8 +12697,9 @@
       "signed_by": null,
       "printing": "4Th",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:25:22-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
+      "last_verified": "2026-09-12T08:28:57-05:00",
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
+      "preorder": "closed"
     },
     {
       "id": "route66-0626dc8531-absolute-batman-15",
@@ -12688,8 +12756,9 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:25:23-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
+      "last_verified": "2026-09-12T08:29:08-05:00",
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
+      "preorder": "closed"
     },
     {
       "id": "route66-1025dc0051-absolute-batman-15",
@@ -12746,8 +12815,9 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:25:24-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
+      "last_verified": "2026-09-12T08:29:09-05:00",
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
+      "preorder": "closed"
     },
     {
       "id": "route66-1025dc0053-absolute-batman-15",
@@ -12833,8 +12903,9 @@
       "signed_by": null,
       "printing": "Second",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:25:26-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
+      "last_verified": "2026-09-12T08:29:10-05:00",
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
+      "preorder": "closed"
     },
     {
       "id": "route66-0126dc8298-absolute-batman-16",
@@ -12920,8 +12991,9 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:25:27-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
+      "last_verified": "2026-09-12T08:29:11-05:00",
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
+      "preorder": "closed"
     },
     {
       "id": "route66-1125dc0046-absolute-batman-16",
@@ -12949,8 +13021,9 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:25:28-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
+      "last_verified": "2026-09-12T08:29:13-05:00",
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
+      "preorder": "closed"
     },
     {
       "id": "route66-1125dc0047-absolute-batman-16",
@@ -13065,8 +13138,9 @@
       "signed_by": null,
       "printing": "First",
       "status": "needs_verification",
-      "last_verified": "2026-09-12T07:23:30-05:00",
-      "evidence": "Contradictory signals (js_available=True, button='', disabled=False)"
+      "last_verified": "2026-09-12T08:29:14-05:00",
+      "evidence": "Contradictory signals (js_available=True, button='', disabled=False)",
+      "preorder": "n/a"
     },
     {
       "id": "route66-1225dc0074-absolute-batman-17",
@@ -13181,8 +13255,9 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:25:29-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
+      "last_verified": "2026-09-12T08:29:15-05:00",
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
+      "preorder": "closed"
     },
     {
       "id": "route66-0626dc8534-absolute-batman-18",
@@ -13268,8 +13343,9 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:25:30-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
+      "last_verified": "2026-09-12T08:29:16-05:00",
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
+      "preorder": "closed"
     },
     {
       "id": "route66-0126dc0061-absolute-batman-18",
@@ -13355,8 +13431,9 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:25:31-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
+      "last_verified": "2026-09-12T08:29:27-05:00",
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
+      "preorder": "closed"
     },
     {
       "id": "route66-0626dc8535-absolute-batman-19",
@@ -13384,8 +13461,9 @@
       "signed_by": null,
       "printing": "Second",
       "status": "needs_verification",
-      "last_verified": "2026-09-12T07:25:31-05:00",
-      "evidence": "Contradictory signals (js_available=True, button='', disabled=False)"
+      "last_verified": "2026-09-12T08:29:28-05:00",
+      "evidence": "Contradictory signals (js_available=True, button='', disabled=False)",
+      "preorder": "n/a"
     },
     {
       "id": "route66-0226dc0032-absolute-batman-19",
@@ -13442,8 +13520,9 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:25:32-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
+      "last_verified": "2026-09-12T08:29:29-05:00",
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
+      "preorder": "closed"
     },
     {
       "id": "route66-0226dc0034-absolute-batman-19",
@@ -13587,8 +13666,9 @@
       "signed_by": null,
       "printing": "Eighth",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:25:34-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
+      "last_verified": "2026-09-12T08:29:29-05:00",
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
+      "preorder": "closed"
     },
     {
       "id": "route66-absolute-batman-2-fourth-printing-cvr-a-nick-dragotta",
@@ -13645,8 +13725,9 @@
       "signed_by": null,
       "printing": "Fourth",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:25:35-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
+      "last_verified": "2026-09-12T08:29:30-05:00",
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
+      "preorder": "closed"
     },
     {
       "id": "route66-0626dc8518-absolute-batman-2",
@@ -13906,8 +13987,9 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:25:39-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
+      "last_verified": "2026-09-12T08:29:31-05:00",
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
+      "preorder": "closed"
     },
     {
       "id": "route66-0326dc8367-absolute-batman-20",
@@ -14544,8 +14626,9 @@
       "signed_by": null,
       "printing": "7Th",
       "status": "needs_verification",
-      "last_verified": "2026-09-12T07:23:31-05:00",
-      "evidence": "Contradictory signals (js_available=True, button='', disabled=False)"
+      "last_verified": "2026-09-12T08:29:32-05:00",
+      "evidence": "Contradictory signals (js_available=True, button='', disabled=False)",
+      "preorder": "n/a"
     },
     {
       "id": "route66-0626dc8519-absolute-batman-3",
@@ -14631,8 +14714,9 @@
       "signed_by": null,
       "printing": "4Th",
       "status": "sold_out",
-      "last_verified": "2026-09-12T07:23:32-05:00",
-      "evidence": "Storefront JS available=false and no enabled purchase button ('none')"
+      "last_verified": "2026-09-12T08:29:33-05:00",
+      "evidence": "Storefront JS available=false and no enabled purchase button ('none')",
+      "preorder": "closed"
     },
     {
       "id": "route66-0126dc8147-absolute-batman-4",
@@ -14660,8 +14744,9 @@
       "signed_by": null,
       "printing": "6Th",
       "status": "needs_verification",
-      "last_verified": "2026-09-12T07:23:33-05:00",
-      "evidence": "Contradictory signals (js_available=True, button='', disabled=False)"
+      "last_verified": "2026-09-12T08:29:34-05:00",
+      "evidence": "Contradictory signals (js_available=True, button='', disabled=False)",
+      "preorder": "n/a"
     },
     {
       "id": "route66-0626dc8520-absolute-batman-4",
@@ -14689,8 +14774,9 @@
       "signed_by": null,
       "printing": "7Th",
       "status": "needs_verification",
-      "last_verified": "2026-09-12T07:23:33-05:00",
-      "evidence": "Contradictory signals (js_available=True, button='', disabled=False)"
+      "last_verified": "2026-09-12T08:29:46-05:00",
+      "evidence": "Contradictory signals (js_available=True, button='', disabled=False)",
+      "preorder": "n/a"
     },
     {
       "id": "route66-0725dc1513-absolute-batman-5",
@@ -14747,8 +14833,9 @@
       "signed_by": null,
       "printing": "5Th",
       "status": "needs_verification",
-      "last_verified": "2026-09-12T07:23:34-05:00",
-      "evidence": "Contradictory signals (js_available=True, button='', disabled=False)"
+      "last_verified": "2026-09-12T08:29:46-05:00",
+      "evidence": "Contradictory signals (js_available=True, button='', disabled=False)",
+      "preorder": "n/a"
     },
     {
       "id": "route66-0626dc8521-absolute-batman-5",
@@ -14776,8 +14863,9 @@
       "signed_by": null,
       "printing": "6Th",
       "status": "needs_verification",
-      "last_verified": "2026-09-12T07:23:35-05:00",
-      "evidence": "Contradictory signals (js_available=True, button='', disabled=False)"
+      "last_verified": "2026-09-12T08:29:47-05:00",
+      "evidence": "Contradictory signals (js_available=True, button='', disabled=False)",
+      "preorder": "n/a"
     },
     {
       "id": "route66-absolute-batman-5-cvr-a-nick-dragotta",
@@ -15037,8 +15125,9 @@
       "signed_by": null,
       "printing": "5Th",
       "status": "needs_verification",
-      "last_verified": "2026-09-12T07:23:36-05:00",
-      "evidence": "Contradictory signals (js_available=True, button='', disabled=False)"
+      "last_verified": "2026-09-12T08:29:48-05:00",
+      "evidence": "Contradictory signals (js_available=True, button='', disabled=False)",
+      "preorder": "n/a"
     },
     {
       "id": "route66-0626dc8523-absolute-batman-7",
@@ -15240,8 +15329,9 @@
       "signed_by": null,
       "printing": "5Th",
       "status": "needs_verification",
-      "last_verified": "2026-09-12T07:23:37-05:00",
-      "evidence": "Contradictory signals (js_available=True, button='', disabled=False)"
+      "last_verified": "2026-09-12T08:29:49-05:00",
+      "evidence": "Contradictory signals (js_available=True, button='', disabled=False)",
+      "preorder": "n/a"
     },
     {
       "id": "route66-absolute-batman-9-cvr-c-tirso-cons-card-stock-var",
@@ -15750,7 +15840,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:17:16-05:00",
+      "last_verified": "2026-09-12T08:31:28-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -15780,7 +15870,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:17:16-05:00",
+      "last_verified": "2026-09-12T08:31:28-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -15810,7 +15900,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:17:17-05:00",
+      "last_verified": "2026-09-12T08:31:29-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -15840,7 +15930,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "available",
-      "last_verified": "2026-09-12T08:17:18-05:00",
+      "last_verified": "2026-09-12T08:31:30-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/skottie-shop-absolute-batman-20-cgc-sig-series-9-9-set-of-three.jpg",
       "preorder": null
@@ -15871,7 +15961,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:17:18-05:00",
+      "last_verified": "2026-09-12T08:31:30-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "preorder": "closed"
     },
@@ -15901,7 +15991,7 @@
       "signed_by": null,
       "printing": "First",
       "status": "sold_out",
-      "last_verified": "2026-09-12T08:17:19-05:00",
+      "last_verified": "2026-09-12T08:31:31-05:00",
       "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
       "image_local": "covers/skottie-shop-absolute-batman-24-artist-exclusive.jpg",
       "preorder": "closed"
@@ -16075,7 +16165,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:22:59-05:00",
+      "last_verified": "2026-09-12T08:38:04-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/impulse-aint-no-grave-tp-cvr-a-jorge-corona.jpg",
       "preorder": "n/a"
@@ -16109,7 +16199,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:23:00-05:00",
+      "last_verified": "2026-09-12T08:38:05-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/impulse-aint-no-grave-tp-cvr-b-inc-1-10-skottie-young-var.jpg",
       "preorder": "n/a"
@@ -16318,7 +16408,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:23:02-05:00",
+      "last_verified": "2026-09-12T08:38:06-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/impulse-amazing-spider-man-51-1-50-skottie-youngs-big-marvel-virgin-sketch-variant.jpg",
       "preorder": "n/a"
@@ -16387,7 +16477,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:23:03-05:00",
+      "last_verified": "2026-09-12T08:38:08-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/impulse-amazing-spider-man-52-1-50-skottie-youngs-big-marvel-virgin-sketch-variant.jpg",
       "preorder": "n/a"
@@ -16771,7 +16861,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:23:05-05:00",
+      "last_verified": "2026-09-12T08:38:09-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/impulse-amazing-spider-man-66-skottie-young-8-deaths-of-spider-man-variant.jpg",
       "preorder": "n/a"
@@ -16840,7 +16930,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:23:06-05:00",
+      "last_verified": "2026-09-12T08:38:23-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/impulse-amazing-spider-man-67-skottie-young-8-deaths-of-spider-man-variant.jpg",
       "preorder": "n/a"
@@ -16944,7 +17034,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:23:08-05:00",
+      "last_verified": "2026-09-12T08:38:24-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/impulse-amazing-spider-man-69-1-100-skottie-young-8-deaths-of-spider-man-black-and-white-v.jpg",
       "preorder": "n/a"
@@ -16978,7 +17068,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:23:09-05:00",
+      "last_verified": "2026-09-12T08:38:25-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/impulse-amazing-spider-man-69-skottie-young-8-deaths-of-spider-man-variant.jpg",
       "preorder": "n/a"
@@ -17012,7 +17102,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:23:23-05:00",
+      "last_verified": "2026-09-12T08:38:27-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/impulse-amazing-spider-man-70-1-100-skottie-young-8-deaths-of-spider-man-black-and-white-v.jpg",
       "preorder": "n/a"
@@ -17053,6 +17143,286 @@
       "preorder": "closed"
     },
     {
+      "id": "impulse-amazing-spider-man-2025-36-skottie-young-variant",
+      "series_id": "sy",
+      "creator_id": "skottie-young",
+      "role": "cover",
+      "retailer_id": "impulse",
+      "retailer_title": "AMAZING SPIDER-MAN (2025) #1000 SKOTTIE YOUNG VARIANT",
+      "title": "Amazing Spider-Man #1000",
+      "publisher": "Marvel",
+      "price_usd": 9.99,
+      "list_price_usd": null,
+      "sku": "75960621001503651",
+      "upc": null,
+      "release_date": "2026-09-30",
+      "foc_date": null,
+      "listing_url": "https://impulsecreations.com/products/amazing-spider-man-2025-36-skottie-young-variant",
+      "source_type": "retailer",
+      "verification": "live",
+      "image_url": "https://cdn.shopify.com/s/files/1/0015/6873/5334/files/ASM20251000_Young.jpg?v=1782422928",
+      "published_at": "2026-05-22T23:40:27-05:00",
+      "tag_preorder": false,
+      "issue": "1000",
+      "variant": "Skottie Young variant",
+      "variant_type": "variant",
+      "cover_letter": null,
+      "cover_kind": "trade dress",
+      "format": "single issue",
+      "artist": "Skottie Young",
+      "first_seen": "2026-09-09T19:54:36-05:00",
+      "status": "sold_out",
+      "last_verified": "2026-09-12T07:11:26-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "image_local": "covers/impulse-amazing-spider-man-2025-36-skottie-young-variant.jpg",
+      "preorder": "closed"
+    },
+    {
+      "id": "impulse-astonishing-iceman-1-skottie-young-variant-fall",
+      "series_id": "sy",
+      "creator_id": "skottie-young",
+      "role": "cover",
+      "retailer_id": "impulse",
+      "retailer_title": "ASTONISHING ICEMAN #1 SKOTTIE YOUNG VARIANT [FALL]",
+      "title": "Astonishing Iceman #1",
+      "publisher": "Marvel",
+      "price_usd": 3.99,
+      "list_price_usd": null,
+      "sku": "75960620615500141",
+      "upc": null,
+      "release_date": null,
+      "foc_date": null,
+      "listing_url": "https://impulsecreations.com/products/astonishing-iceman-1-skottie-young-variant-fall",
+      "source_type": "retailer",
+      "verification": "live",
+      "image_url": "https://cdn.shopify.com/s/files/1/0015/6873/5334/files/STL275897.jpg?v=1690924715",
+      "published_at": "2023-04-26T15:27:16-05:00",
+      "tag_preorder": false,
+      "issue": "1",
+      "variant": "Skottie Young variant",
+      "variant_type": "variant",
+      "cover_letter": null,
+      "cover_kind": "trade dress",
+      "format": "single issue",
+      "artist": "Skottie Young",
+      "first_seen": "2026-09-09T19:54:36-05:00",
+      "status": "sold_out",
+      "last_verified": "2026-09-12T05:40:07-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "image_local": "covers/impulse-astonishing-iceman-1-skottie-young-variant-fall.jpg",
+      "preorder": "closed"
+    },
+    {
+      "id": "impulse-avengers-1-skottie-young-variant",
+      "series_id": "sy",
+      "creator_id": "skottie-young",
+      "role": "cover",
+      "retailer_id": "impulse",
+      "retailer_title": "AVENGERS #1 SKOTTIE YOUNG VARIANT",
+      "title": "Avengers #1",
+      "publisher": "Marvel",
+      "price_usd": 4.99,
+      "list_price_usd": null,
+      "sku": "75960620426700151",
+      "upc": null,
+      "release_date": null,
+      "foc_date": null,
+      "listing_url": "https://impulsecreations.com/products/avengers-1-skottie-young-variant",
+      "source_type": "retailer",
+      "verification": "live",
+      "image_url": "https://cdn.shopify.com/s/files/1/0015/6873/5334/products/75960620426700151.jpg?v=1681475680",
+      "published_at": "2023-02-19T09:51:52-06:00",
+      "tag_preorder": false,
+      "issue": "1",
+      "variant": "Skottie Young variant",
+      "variant_type": "variant",
+      "cover_letter": null,
+      "cover_kind": "trade dress",
+      "format": "single issue",
+      "artist": "Skottie Young",
+      "first_seen": "2026-09-09T19:54:36-05:00",
+      "status": "sold_out",
+      "last_verified": "2026-09-12T05:40:08-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "image_local": "covers/impulse-avengers-1-skottie-young-variant.jpg",
+      "preorder": "closed"
+    },
+    {
+      "id": "impulse-avengers-15-1-50-skottie-youngs-big-marvel-virgin-sketch-variant-bh",
+      "series_id": "sy",
+      "creator_id": "skottie-young",
+      "role": "cover",
+      "retailer_id": "impulse",
+      "retailer_title": "AVENGERS #15 1:50 SKOTTIE YOUNG'S BIG MARVEL VIRGIN SKETCH VARIANT [BH]",
+      "title": "Avengers #15",
+      "publisher": "Marvel",
+      "price_usd": 60.0,
+      "list_price_usd": null,
+      "sku": "75960620426701516",
+      "upc": null,
+      "release_date": null,
+      "foc_date": null,
+      "listing_url": "https://impulsecreations.com/products/avengers-15-1-50-skottie-youngs-big-marvel-virgin-sketch-variant-bh",
+      "source_type": "retailer",
+      "verification": "live",
+      "image_url": "https://cdn.shopify.com/s/files/1/0015/6873/5334/files/75960620426701516.jpg?v=1712976616",
+      "published_at": "2024-03-23T09:21:30-05:00",
+      "tag_preorder": false,
+      "issue": "15",
+      "variant": "Skottie Young variant (1:50 incentive, virgin)",
+      "variant_type": "incentive",
+      "cover_letter": null,
+      "cover_kind": "1:50 incentive, virgin",
+      "format": "single issue",
+      "artist": "Skottie Young",
+      "first_seen": "2026-09-09T19:54:36-05:00",
+      "status": "sold_out",
+      "last_verified": "2026-09-12T05:40:10-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "image_local": "covers/impulse-avengers-15-1-50-skottie-youngs-big-marvel-virgin-sketch-variant-bh.jpg",
+      "preorder": "closed"
+    },
+    {
+      "id": "impulse-avengers-15-skottie-youngs-big-marvel-variant-bh",
+      "series_id": "sy",
+      "creator_id": "skottie-young",
+      "role": "cover",
+      "retailer_id": "impulse",
+      "retailer_title": "AVENGERS #15 SKOTTIE YOUNG'S BIG MARVEL VARIANT [BH]",
+      "title": "Avengers #15",
+      "publisher": "Marvel",
+      "price_usd": 3.99,
+      "list_price_usd": null,
+      "sku": "75960620426701521",
+      "upc": null,
+      "release_date": null,
+      "foc_date": null,
+      "listing_url": "https://impulsecreations.com/products/avengers-15-skottie-youngs-big-marvel-variant-bh",
+      "source_type": "retailer",
+      "verification": "live",
+      "image_url": "https://cdn.shopify.com/s/files/1/0015/6873/5334/files/75960620426701521.jpg?v=1712615191",
+      "published_at": "2024-03-23T09:21:35-05:00",
+      "tag_preorder": false,
+      "issue": "15",
+      "variant": "Skottie Young variant",
+      "variant_type": "variant",
+      "cover_letter": null,
+      "cover_kind": "trade dress",
+      "format": "single issue",
+      "artist": "Skottie Young",
+      "first_seen": "2026-09-09T19:54:36-05:00",
+      "status": "sold_out",
+      "last_verified": "2026-09-12T05:40:11-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "image_local": "covers/impulse-avengers-15-skottie-youngs-big-marvel-variant-bh.jpg",
+      "preorder": "closed"
+    },
+    {
+      "id": "impulse-avengers-2026-1-skottie-young-variant",
+      "series_id": "sy",
+      "creator_id": "skottie-young",
+      "role": "cover",
+      "retailer_id": "impulse",
+      "retailer_title": "AVENGERS (2026) #1 SKOTTIE YOUNG VARIANT",
+      "title": "Avengers #1",
+      "publisher": "Marvel",
+      "price_usd": 5.99,
+      "list_price_usd": null,
+      "sku": "75960621380100131",
+      "upc": null,
+      "release_date": "2026-11-04",
+      "foc_date": null,
+      "listing_url": "https://impulsecreations.com/products/avengers-2026-1-skottie-young-variant",
+      "source_type": "retailer",
+      "verification": "live",
+      "image_url": "https://cdn.shopify.com/s/files/1/0015/6873/5334/files/75960621380100131.jpg?v=1788810669",
+      "published_at": "2026-06-19T18:56:01-05:00",
+      "tag_preorder": false,
+      "issue": "1",
+      "variant": "Skottie Young variant",
+      "variant_type": "variant",
+      "cover_letter": null,
+      "cover_kind": "trade dress",
+      "format": "single issue",
+      "artist": "Skottie Young",
+      "first_seen": "2026-09-09T19:54:36-05:00",
+      "status": "sold_out",
+      "last_verified": "2026-09-12T05:40:13-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "image_local": "covers/impulse-avengers-2026-1-skottie-young-variant.jpg",
+      "preorder": "closed"
+    },
+    {
+      "id": "impulse-avengers-twilight-1-skottie-young-variant",
+      "series_id": "sy",
+      "creator_id": "skottie-young",
+      "role": "cover",
+      "retailer_id": "impulse",
+      "retailer_title": "AVENGERS TWILIGHT #1 SKOTTIE YOUNG VARIANT",
+      "title": "Avengers Twilight #1",
+      "publisher": "Marvel",
+      "price_usd": 7.0,
+      "list_price_usd": null,
+      "sku": "75960609592600141",
+      "upc": null,
+      "release_date": null,
+      "foc_date": null,
+      "listing_url": "https://impulsecreations.com/products/avengers-twilight-1-skottie-young-variant",
+      "source_type": "retailer",
+      "verification": "live",
+      "image_url": "https://cdn.shopify.com/s/files/1/0015/6873/5334/files/75960609592600141.jpg?v=1700756743",
+      "published_at": "2023-09-22T23:03:55-05:00",
+      "tag_preorder": false,
+      "issue": "1",
+      "variant": "Skottie Young variant",
+      "variant_type": "variant",
+      "cover_letter": null,
+      "cover_kind": "trade dress",
+      "format": "single issue",
+      "artist": "Skottie Young",
+      "first_seen": "2026-09-09T19:54:36-05:00",
+      "status": "sold_out",
+      "last_verified": "2026-09-12T07:11:27-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "image_local": "covers/impulse-avengers-twilight-1-skottie-young-variant.jpg",
+      "preorder": "closed"
+    },
+    {
+      "id": "impulse-avengers-armageddon-1-skottie-young-variant",
+      "series_id": "sy",
+      "creator_id": "skottie-young",
+      "role": "cover",
+      "retailer_id": "impulse",
+      "retailer_title": "AVENGERS: ARMAGEDDON #1 SKOTTIE YOUNG VARIANT",
+      "title": "Avengers: Armageddon #1",
+      "publisher": "Marvel",
+      "price_usd": 5.99,
+      "list_price_usd": null,
+      "sku": "75960621563800171",
+      "upc": null,
+      "release_date": "2026-06-10",
+      "foc_date": null,
+      "listing_url": "https://impulsecreations.com/products/avengers-armageddon-1-skottie-young-variant",
+      "source_type": "retailer",
+      "verification": "live",
+      "image_url": "https://cdn.shopify.com/s/files/1/0015/6873/5334/files/75960621563800171.jpg?v=1776725902",
+      "published_at": "2026-02-20T21:26:03-06:00",
+      "tag_preorder": false,
+      "issue": "1",
+      "variant": "Skottie Young variant",
+      "variant_type": "variant",
+      "cover_letter": null,
+      "cover_kind": "trade dress",
+      "format": "single issue",
+      "artist": "Skottie Young",
+      "first_seen": "2026-09-09T19:54:36-05:00",
+      "status": "sold_out",
+      "last_verified": "2026-09-12T05:40:14-05:00",
+      "evidence": "Storefront JS available=false and disabled purchase button ('Sold out')",
+      "image_local": "covers/impulse-avengers-armageddon-1-skottie-young-variant.jpg",
+      "preorder": "closed"
+    },
+    {
       "id": "impulse-ultimate-endgame-1-skottie-young-variant",
       "series_id": "sy",
       "creator_id": "skottie-young",
@@ -17081,7 +17451,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:23:24-05:00",
+      "last_verified": "2026-09-12T08:38:28-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/impulse-ultimate-endgame-1-skottie-young-variant.jpg",
       "preorder": "n/a"
@@ -17115,7 +17485,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:23:26-05:00",
+      "last_verified": "2026-09-12T08:38:30-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/impulse-scarlet-witch-1-skottie-youngs-big-marvel-variant.jpg",
       "preorder": "n/a"
@@ -17149,7 +17519,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:23:27-05:00",
+      "last_verified": "2026-09-12T08:38:31-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/impulse-marvel-disney-what-if-minnie-became-captain-marvel-1-skottie-young-varia-nt.jpg",
       "preorder": "n/a"
@@ -17183,7 +17553,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:23:29-05:00",
+      "last_verified": "2026-09-12T08:38:33-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/impulse-marvel-disney-what-if-mickey-friends-became-the-fantastic-four-1-skott-ie-young-va.jpg",
       "preorder": "n/a"
@@ -17217,7 +17587,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:23:30-05:00",
+      "last_verified": "2026-09-12T08:38:34-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/impulse-queen-in-black-1-skottie-young-variant.jpg",
       "preorder": "n/a"
@@ -17251,7 +17621,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:23:31-05:00",
+      "last_verified": "2026-09-12T08:38:35-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/impulse-rise-of-the-powers-of-x-1-skottie-young-variant.jpg",
       "preorder": "n/a"
@@ -17285,7 +17655,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:23:33-05:00",
+      "last_verified": "2026-09-12T08:38:37-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/impulse-g-o-d-s-1-skottie-young-variant.jpg",
       "preorder": "n/a"
@@ -17319,7 +17689,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:23:34-05:00",
+      "last_verified": "2026-09-12T08:38:38-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/impulse-imperial-1-skottie-young-variant.jpg",
       "preorder": "n/a"
@@ -17353,7 +17723,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:23:36-05:00",
+      "last_verified": "2026-09-12T08:38:39-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/impulse-predator-vs-the-planet-of-the-apes-1-skottie-young-variant.jpg",
       "preorder": "n/a"
@@ -17387,7 +17757,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:23:37-05:00",
+      "last_verified": "2026-09-12T08:38:41-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/impulse-fantastic-four-gargoyles-1-skottie-young-variant.jpg",
       "preorder": "n/a"
@@ -17421,7 +17791,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:23:38-05:00",
+      "last_verified": "2026-09-12T08:38:42-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/impulse-dnx-1-skottie-young-dnx-collection-variant-a.jpg",
       "preorder": "n/a"
@@ -17455,7 +17825,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:23:40-05:00",
+      "last_verified": "2026-09-12T08:38:43-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/impulse-queen-in-black-1-skottie-young-virgin-variant.jpg",
       "preorder": "n/a"
@@ -17489,7 +17859,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:23:41-05:00",
+      "last_verified": "2026-09-12T08:38:45-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/impulse-scarlet-witch-1-skottie-youngs-big-marvel-virgin-sketch-variant.jpg",
       "preorder": "n/a"
@@ -17523,7 +17893,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:23:55-05:00",
+      "last_verified": "2026-09-12T08:38:46-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/impulse-dnx-1-skottie-young-variant.jpg",
       "preorder": "n/a"
@@ -17557,7 +17927,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:23:57-05:00",
+      "last_verified": "2026-09-12T08:39:00-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/impulse-ultimate-endgame-1-1-100-skottie-young-black-and-white-virgin-variant.jpg",
       "preorder": "n/a"
@@ -17591,7 +17961,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:23:58-05:00",
+      "last_verified": "2026-09-12T08:39:01-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/impulse-spider-gwen-the-ghost-spider-3-1-50-skottie-youngs-big-marvel-virgin-black-and-whi.jpg",
       "preorder": "n/a"
@@ -17625,7 +17995,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:23:59-05:00",
+      "last_verified": "2026-09-12T08:39:03-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/impulse-x-men-97-4-1-50-skottie-youngs-big-marvel-virgin-sketch-variant.jpg",
       "preorder": "n/a"
@@ -17659,7 +18029,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:24:01-05:00",
+      "last_verified": "2026-09-12T08:39:04-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/impulse-x-men-35-1-50-skottie-youngs-big-marvel-virgin-sketch-variant-fhx.jpg",
       "preorder": "n/a"
@@ -17693,9 +18063,383 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:24:02-05:00",
+      "last_verified": "2026-09-12T08:39:05-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/impulse-wolverine-blood-hunt-1-1-50-skottie-youngs-big-marvel-virgin-sketch-variant-bh.jpg",
+      "preorder": "n/a"
+    },
+    {
+      "id": "impulse-dorc-4-cvr-b-skottie-young-var",
+      "series_id": "sy",
+      "creator_id": "skottie-young",
+      "role": "cover",
+      "retailer_id": "impulse",
+      "retailer_title": "DORC #4 CVR B SKOTTIE YOUNG VAR",
+      "title": "Dorc #4",
+      "publisher": "Image Comics",
+      "price_usd": 3.99,
+      "list_price_usd": null,
+      "sku": "0326IM0299",
+      "upc": null,
+      "release_date": "2026-05-13",
+      "foc_date": null,
+      "listing_url": "https://impulsecreations.com/products/dorc-4-cvr-b-skottie-young-var",
+      "source_type": "retailer",
+      "verification": "live",
+      "image_url": "https://cdn.shopify.com/s/files/1/0015/6873/5334/files/0326IM0299.jpg?v=1776124132",
+      "published_at": "2026-02-20T21:35:31-06:00",
+      "issue": "4",
+      "variant": "Cover B — Skottie Young",
+      "variant_type": "variant",
+      "cover_letter": "B",
+      "cover_kind": "trade dress",
+      "format": "single issue",
+      "artist": "Skottie Young",
+      "first_seen": "2026-09-09T19:54:36-05:00",
+      "status": "available",
+      "last_verified": "2026-09-12T08:39:07-05:00",
+      "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
+      "image_local": "covers/impulse-dorc-4-cvr-b-skottie-young-var.jpg",
+      "preorder": "n/a"
+    },
+    {
+      "id": "impulse-spawn-scorched-50-cvr-c-skottie-young-connecting-var",
+      "series_id": "sy",
+      "creator_id": "skottie-young",
+      "role": "cover",
+      "retailer_id": "impulse",
+      "retailer_title": "SPAWN SCORCHED #50 CVR C SKOTTIE YOUNG CONNECTING VAR",
+      "title": "Spawn Scorched #50",
+      "publisher": "Image Comics",
+      "price_usd": 4.99,
+      "list_price_usd": null,
+      "sku": "1225IM0274",
+      "upc": null,
+      "release_date": "2026-04-15",
+      "foc_date": null,
+      "listing_url": "https://impulsecreations.com/products/spawn-scorched-50-cvr-c-skottie-young-connecting-var",
+      "source_type": "retailer",
+      "verification": "live",
+      "image_url": "https://cdn.shopify.com/s/files/1/0015/6873/5334/files/1225IM0274.jpg?v=1774021927",
+      "published_at": "2025-11-22T10:49:14-06:00",
+      "issue": "50",
+      "variant": "Cover C — Skottie Young",
+      "variant_type": "variant",
+      "cover_letter": "C",
+      "cover_kind": "trade dress",
+      "format": "single issue",
+      "artist": "Skottie Young",
+      "first_seen": "2026-09-09T19:54:36-05:00",
+      "status": "available",
+      "last_verified": "2026-09-12T08:39:08-05:00",
+      "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
+      "image_local": "covers/impulse-spawn-scorched-50-cvr-c-skottie-young-connecting-var.jpg",
+      "preorder": "n/a"
+    },
+    {
+      "id": "impulse-king-spawn-50-cvr-c-skottie-young-var",
+      "series_id": "sy",
+      "creator_id": "skottie-young",
+      "role": "cover",
+      "retailer_id": "impulse",
+      "retailer_title": "KING SPAWN #50 CVR C SKOTTIE YOUNG VAR",
+      "title": "King Spawn #50",
+      "publisher": "Image Comics",
+      "price_usd": 4.99,
+      "list_price_usd": null,
+      "sku": "0825IM8000",
+      "upc": null,
+      "release_date": null,
+      "foc_date": null,
+      "listing_url": "https://impulsecreations.com/products/king-spawn-50-cvr-c-skottie-young-var",
+      "source_type": "retailer",
+      "verification": "live",
+      "image_url": "https://cdn.shopify.com/s/files/1/0015/6873/5334/files/0825IM8000.jpg?v=1759025115",
+      "published_at": "2025-09-13T17:46:40-05:00",
+      "issue": "50",
+      "variant": "Cover C — Skottie Young",
+      "variant_type": "variant",
+      "cover_letter": "C",
+      "cover_kind": "trade dress",
+      "format": "single issue",
+      "artist": "Skottie Young",
+      "first_seen": "2026-09-09T19:54:36-05:00",
+      "status": "available",
+      "last_verified": "2026-09-12T08:39:10-05:00",
+      "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
+      "image_local": "covers/impulse-king-spawn-50-cvr-c-skottie-young-var.jpg",
+      "preorder": "n/a"
+    },
+    {
+      "id": "impulse-i-hate-fairyland-49-cover-d-invincible-team-up-variant-by-skottie-young",
+      "series_id": "sy",
+      "creator_id": "skottie-young",
+      "role": "cover",
+      "retailer_id": "impulse",
+      "retailer_title": "I HATE FAIRYLAND #49 Cover D Invincible Team-Up variant by Skottie Young",
+      "title": "I Hate Fairyland #49",
+      "publisher": "Image Comics",
+      "price_usd": 3.99,
+      "list_price_usd": null,
+      "sku": "0126IM8051",
+      "upc": null,
+      "release_date": "2026-03-25",
+      "foc_date": null,
+      "listing_url": "https://impulsecreations.com/products/i-hate-fairyland-49-cover-d-invincible-team-up-variant-by-skottie-young",
+      "source_type": "retailer",
+      "verification": "live",
+      "image_url": "https://cdn.shopify.com/s/files/1/0015/6873/5334/files/0126IM8051.jpg?v=1771701306",
+      "published_at": "2026-01-26T22:11:39-06:00",
+      "issue": "49",
+      "variant": "Cover D — Skottie Young",
+      "variant_type": "variant",
+      "cover_letter": "D",
+      "cover_kind": "trade dress",
+      "format": "single issue",
+      "artist": "Skottie Young",
+      "first_seen": "2026-09-09T19:54:36-05:00",
+      "status": "available",
+      "last_verified": "2026-09-12T08:39:11-05:00",
+      "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
+      "image_local": "covers/impulse-i-hate-fairyland-49-cover-d-invincible-team-up-variant-by-skottie-young.jpg",
+      "preorder": "n/a"
+    },
+    {
+      "id": "impulse-i-hate-fairyland-2022-16-cvr-a-skottie-young",
+      "series_id": "sy",
+      "creator_id": "skottie-young",
+      "role": "cover",
+      "retailer_id": "impulse",
+      "retailer_title": "I HATE FAIRYLAND (2022) #16 CVR A SKOTTIE YOUNG",
+      "title": "I Hate Fairyland #16",
+      "publisher": "Image Comics",
+      "price_usd": 3.99,
+      "list_price_usd": null,
+      "sku": "0824IM288",
+      "upc": null,
+      "release_date": null,
+      "foc_date": null,
+      "listing_url": "https://impulsecreations.com/products/i-hate-fairyland-2022-16-cvr-a-skottie-young",
+      "source_type": "retailer",
+      "verification": "live",
+      "image_url": "https://cdn.shopify.com/s/files/1/0015/6873/5334/files/0824IM288.jpg?v=1723582709",
+      "published_at": "2024-07-19T22:21:04-05:00",
+      "issue": "16",
+      "variant": "Cover A — Skottie Young",
+      "variant_type": "variant",
+      "cover_letter": "A",
+      "cover_kind": "regular",
+      "format": "single issue",
+      "artist": "Skottie Young",
+      "first_seen": "2026-09-09T19:54:36-05:00",
+      "status": "available",
+      "last_verified": "2026-09-12T08:39:13-05:00",
+      "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
+      "image_local": "covers/impulse-i-hate-fairyland-2022-16-cvr-a-skottie-young.jpg",
+      "preorder": "n/a"
+    },
+    {
+      "id": "impulse-i-hate-fairyland-50-cvr-c-skottie-young-var-mr",
+      "series_id": "sy",
+      "creator_id": "skottie-young",
+      "role": "cover",
+      "retailer_id": "impulse",
+      "retailer_title": "I HATE FAIRYLAND #50 CVR C SKOTTIE YOUNG VAR (MR)",
+      "title": "I Hate Fairyland #50",
+      "publisher": "Image Comics",
+      "price_usd": 3.99,
+      "list_price_usd": null,
+      "sku": "0226IM0263",
+      "upc": null,
+      "release_date": "2026-04-29",
+      "foc_date": null,
+      "listing_url": "https://impulsecreations.com/products/i-hate-fairyland-50-cvr-c-skottie-young-var-mr",
+      "source_type": "retailer",
+      "verification": "live",
+      "image_url": "https://cdn.shopify.com/s/files/1/0015/6873/5334/files/0226IM0263_84df7259-442c-4a3e-b63d-1ad1051b6339.jpg?v=1775275499",
+      "published_at": "2026-01-23T19:31:35-06:00",
+      "issue": "50",
+      "variant": "Cover C — Skottie Young",
+      "variant_type": "variant",
+      "cover_letter": "C",
+      "cover_kind": "trade dress",
+      "format": "single issue",
+      "artist": "Skottie Young",
+      "first_seen": "2026-09-09T19:54:36-05:00",
+      "status": "available",
+      "last_verified": "2026-09-12T08:39:14-05:00",
+      "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
+      "image_local": "covers/impulse-i-hate-fairyland-50-cvr-c-skottie-young-var-mr.jpg",
+      "preorder": "n/a"
+    },
+    {
+      "id": "impulse-i-hate-fairyland-2022-16-cvr-b-skottie-young-f-ck-uncensored-fairyland-var",
+      "series_id": "sy",
+      "creator_id": "skottie-young",
+      "role": "cover",
+      "retailer_id": "impulse",
+      "retailer_title": "I HATE FAIRYLAND (2022) #16 CVR B SKOTTIE YOUNG F*CK (UNCENSORED) FAIRYLAND VAR",
+      "title": "I Hate Fairyland #16",
+      "publisher": "Image Comics",
+      "price_usd": 3.99,
+      "list_price_usd": null,
+      "sku": "0824IM289",
+      "upc": null,
+      "release_date": null,
+      "foc_date": null,
+      "listing_url": "https://impulsecreations.com/products/i-hate-fairyland-2022-16-cvr-b-skottie-young-f-ck-uncensored-fairyland-var",
+      "source_type": "retailer",
+      "verification": "live",
+      "image_url": "https://cdn.shopify.com/s/files/1/0015/6873/5334/files/0824IM289.jpg?v=1723582735",
+      "published_at": "2024-07-19T22:21:06-05:00",
+      "issue": "16",
+      "variant": "Cover B — Skottie Young",
+      "variant_type": "variant",
+      "cover_letter": "B",
+      "cover_kind": "trade dress",
+      "format": "single issue",
+      "artist": "Skottie Young",
+      "first_seen": "2026-09-09T19:54:36-05:00",
+      "status": "available",
+      "last_verified": "2026-09-12T08:39:16-05:00",
+      "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
+      "image_local": "covers/impulse-i-hate-fairyland-2022-16-cvr-b-skottie-young-f-ck-uncensored-fairyland-var.jpg",
+      "preorder": "n/a"
+    },
+    {
+      "id": "impulse-i-hate-fairyland-46-cvr-c-skottie-young-var",
+      "series_id": "sy",
+      "creator_id": "skottie-young",
+      "role": "cover",
+      "retailer_id": "impulse",
+      "retailer_title": "I HATE FAIRYLAND #46 CVR C SKOTTIE YOUNG VAR",
+      "title": "I Hate Fairyland #46",
+      "publisher": "Image Comics",
+      "price_usd": 3.99,
+      "list_price_usd": null,
+      "sku": "1025IM0376",
+      "upc": null,
+      "release_date": null,
+      "foc_date": null,
+      "listing_url": "https://impulsecreations.com/products/i-hate-fairyland-46-cvr-c-skottie-young-var",
+      "source_type": "retailer",
+      "verification": "live",
+      "image_url": "https://cdn.shopify.com/s/files/1/0015/6873/5334/files/1025IM0376.jpg?v=1762008528",
+      "published_at": "2025-09-19T23:52:40-05:00",
+      "issue": "46",
+      "variant": "Cover C — Skottie Young",
+      "variant_type": "variant",
+      "cover_letter": "C",
+      "cover_kind": "trade dress",
+      "format": "single issue",
+      "artist": "Skottie Young",
+      "first_seen": "2026-09-09T19:54:36-05:00",
+      "status": "available",
+      "last_verified": "2026-09-12T08:39:17-05:00",
+      "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
+      "image_local": "covers/impulse-i-hate-fairyland-46-cvr-c-skottie-young-var.jpg",
+      "preorder": "n/a"
+    },
+    {
+      "id": "impulse-i-hate-fairyland-46-cvr-d-skottie-young-youngblood-team-up-var-mr",
+      "series_id": "sy",
+      "creator_id": "skottie-young",
+      "role": "cover",
+      "retailer_id": "impulse",
+      "retailer_title": "I HATE FAIRYLAND #46 CVR D SKOTTIE YOUNG YOUNGBLOOD TEAM UP VAR",
+      "title": "I Hate Fairyland #46",
+      "publisher": "Image Comics",
+      "price_usd": 3.99,
+      "list_price_usd": null,
+      "sku": "1025IM8003",
+      "upc": null,
+      "release_date": null,
+      "foc_date": null,
+      "listing_url": "https://impulsecreations.com/products/i-hate-fairyland-46-cvr-d-skottie-young-youngblood-team-up-var-mr",
+      "source_type": "retailer",
+      "verification": "live",
+      "image_url": "https://cdn.shopify.com/s/files/1/0015/6873/5334/files/1025IM8003.jpg?v=1762008531",
+      "published_at": "2025-10-09T01:48:37-05:00",
+      "issue": "46",
+      "variant": "Cover D — Skottie Young",
+      "variant_type": "variant",
+      "cover_letter": "D",
+      "cover_kind": "trade dress",
+      "format": "single issue",
+      "artist": "Skottie Young",
+      "first_seen": "2026-09-09T19:54:36-05:00",
+      "status": "available",
+      "last_verified": "2026-09-12T08:39:31-05:00",
+      "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
+      "image_local": "covers/impulse-i-hate-fairyland-46-cvr-d-skottie-young-youngblood-team-up-var-mr.jpg",
+      "preorder": "n/a"
+    },
+    {
+      "id": "impulse-i-hate-fairyland-2022-16-cvr-c-inc-1-10-skottie-young-homage-var",
+      "series_id": "sy",
+      "creator_id": "skottie-young",
+      "role": "cover",
+      "retailer_id": "impulse",
+      "retailer_title": "I HATE FAIRYLAND (2022) #16 CVR C INC 1:10 SKOTTIE YOUNG HOMAGE VAR",
+      "title": "I Hate Fairyland #16",
+      "publisher": "Image Comics",
+      "price_usd": 15.0,
+      "list_price_usd": null,
+      "sku": "0824IM290",
+      "upc": null,
+      "release_date": null,
+      "foc_date": null,
+      "listing_url": "https://impulsecreations.com/products/i-hate-fairyland-2022-16-cvr-c-inc-1-10-skottie-young-homage-var",
+      "source_type": "retailer",
+      "verification": "live",
+      "image_url": "https://cdn.shopify.com/s/files/1/0015/6873/5334/files/0824IM290.jpg?v=1723582757",
+      "published_at": "2024-07-19T22:21:08-05:00",
+      "issue": "16",
+      "variant": "Cover C — Skottie Young (1:10 incentive)",
+      "variant_type": "incentive",
+      "cover_letter": "C",
+      "cover_kind": "1:10 incentive",
+      "format": "single issue",
+      "artist": "Skottie Young",
+      "first_seen": "2026-09-09T19:54:36-05:00",
+      "status": "available",
+      "last_verified": "2026-09-12T08:39:32-05:00",
+      "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
+      "image_local": "covers/impulse-i-hate-fairyland-2022-16-cvr-c-inc-1-10-skottie-young-homage-var.jpg",
+      "preorder": "n/a"
+    },
+    {
+      "id": "impulse-i-hate-fairyland-2022-19-cvr-c-inc-1-10-skottie-young-var",
+      "series_id": "sy",
+      "creator_id": "skottie-young",
+      "role": "cover",
+      "retailer_id": "impulse",
+      "retailer_title": "I HATE FAIRYLAND (2022) #19 CVR C INC 1:10 SKOTTIE YOUNG VAR",
+      "title": "I Hate Fairyland #19",
+      "publisher": "Image Comics",
+      "price_usd": 15.0,
+      "list_price_usd": null,
+      "sku": "1124IM332",
+      "upc": null,
+      "release_date": null,
+      "foc_date": null,
+      "listing_url": "https://impulsecreations.com/products/i-hate-fairyland-2022-19-cvr-c-inc-1-10-skottie-young-var",
+      "source_type": "retailer",
+      "verification": "live",
+      "image_url": "https://cdn.shopify.com/s/files/1/0015/6873/5334/files/1124IM332.jpg?v=1729727068",
+      "published_at": "2024-10-23T18:44:25-05:00",
+      "issue": "19",
+      "variant": "Cover C — Skottie Young (1:10 incentive)",
+      "variant_type": "incentive",
+      "cover_letter": "C",
+      "cover_kind": "1:10 incentive",
+      "format": "single issue",
+      "artist": "Skottie Young",
+      "first_seen": "2026-09-09T19:54:36-05:00",
+      "status": "available",
+      "last_verified": "2026-09-12T08:39:34-05:00",
+      "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
+      "image_local": "covers/impulse-i-hate-fairyland-2022-19-cvr-c-inc-1-10-skottie-young-var.jpg",
       "preorder": "n/a"
     },
     {
@@ -17727,7 +18471,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "preorder_open",
-      "last_verified": "2026-09-12T08:24:04-05:00",
+      "last_verified": "2026-09-12T08:39:35-05:00",
       "evidence": "Storefront JS available=true and enabled 'Pre-order' button in the /cart/add form",
       "image_local": "covers/impulse-it-demands-sacrifice-1-of-4-cvr-d-skottie-young-foil-var.jpg",
       "preorder": "open"
@@ -17761,7 +18505,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "preorder_open",
-      "last_verified": "2026-09-12T08:24:05-05:00",
+      "last_verified": "2026-09-12T08:39:36-05:00",
       "evidence": "Storefront JS available=true and enabled 'Pre-order' button in the /cart/add form",
       "preorder": "open"
     },
@@ -17794,7 +18538,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "preorder_open",
-      "last_verified": "2026-09-12T08:24:07-05:00",
+      "last_verified": "2026-09-12T08:39:38-05:00",
       "evidence": "Storefront JS available=true and enabled 'Pre-order' button in the /cart/add form",
       "preorder": "open"
     },
@@ -17827,7 +18571,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "preorder_open",
-      "last_verified": "2026-09-12T08:24:08-05:00",
+      "last_verified": "2026-09-12T08:39:39-05:00",
       "evidence": "Storefront JS available=true and enabled 'Pre-order' button in the /cart/add form",
       "preorder": "open"
     },
@@ -17860,7 +18604,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "preorder_open",
-      "last_verified": "2026-09-12T08:24:09-05:00",
+      "last_verified": "2026-09-12T08:39:41-05:00",
       "evidence": "Storefront JS available=true and enabled 'Pre-order' button in the /cart/add form",
       "image_local": "covers/impulse-dnx-3-skottie-young-dnx-collection-variant-g.jpg",
       "preorder": "open"
@@ -17894,7 +18638,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "preorder_open",
-      "last_verified": "2026-09-12T08:24:11-05:00",
+      "last_verified": "2026-09-12T08:39:42-05:00",
       "evidence": "Storefront JS available=true and enabled 'Pre-order' button in the /cart/add form",
       "preorder": "open"
     },
@@ -18030,7 +18774,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:24:27-05:00",
+      "last_verified": "2026-09-12T08:39:43-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/impulse-usagi-yojimbo-ice-and-snow-1-cvr-b-skottie-young.jpg",
       "preorder": "n/a"
@@ -18060,7 +18804,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "preorder_open",
-      "last_verified": "2026-09-12T08:24:28-05:00",
+      "last_verified": "2026-09-12T08:39:44-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2573354.jpg",
       "preorder": "open",
@@ -18092,7 +18836,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "preorder_open",
-      "last_verified": "2026-09-12T08:24:29-05:00",
+      "last_verified": "2026-09-12T08:39:45-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2558818.jpg",
       "preorder": "open",
@@ -18123,7 +18867,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:24:30-05:00",
+      "last_verified": "2026-09-12T08:39:46-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2576648.jpg",
       "preorder": "n/a",
@@ -18154,7 +18898,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:24:31-05:00",
+      "last_verified": "2026-09-12T08:39:47-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2567051.jpg",
       "preorder": "n/a",
@@ -18185,7 +18929,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:24:32-05:00",
+      "last_verified": "2026-09-12T08:39:48-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2559103.jpg",
       "preorder": "n/a",
@@ -18216,7 +18960,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:24:33-05:00",
+      "last_verified": "2026-09-12T08:39:49-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2540030.jpg",
       "preorder": "n/a",
@@ -18247,7 +18991,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:24:34-05:00",
+      "last_verified": "2026-09-12T08:39:50-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2540031.jpg",
       "preorder": "n/a",
@@ -18279,7 +19023,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:24:34-05:00",
+      "last_verified": "2026-09-12T08:39:50-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2558847.jpg",
       "preorder": "n/a",
@@ -18310,7 +19054,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-10T17:18:12-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:24:35-05:00",
+      "last_verified": "2026-09-12T08:39:51-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2540333.jpg",
       "preorder": "n/a",
@@ -18342,7 +19086,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:24:36-05:00",
+      "last_verified": "2026-09-12T08:39:52-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2548350.jpg",
       "preorder": "n/a",
@@ -18374,7 +19118,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:24:37-05:00",
+      "last_verified": "2026-09-12T08:39:53-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2540871.jpg",
       "preorder": "n/a",
@@ -18405,7 +19149,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:24:38-05:00",
+      "last_verified": "2026-09-12T08:39:54-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2531671.jpg",
       "preorder": "n/a",
@@ -18437,7 +19181,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:24:39-05:00",
+      "last_verified": "2026-09-12T08:39:55-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2513138.jpg",
       "preorder": "n/a",
@@ -18469,7 +19213,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:24:40-05:00",
+      "last_verified": "2026-09-12T08:39:56-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2534937.jpg",
       "preorder": "n/a",
@@ -18501,7 +19245,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:24:41-05:00",
+      "last_verified": "2026-09-12T08:39:57-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2521768.jpg",
       "preorder": "n/a",
@@ -18533,7 +19277,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:24:42-05:00",
+      "last_verified": "2026-09-12T08:39:58-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2524214.jpg",
       "preorder": "n/a",
@@ -18565,7 +19309,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:24:43-05:00",
+      "last_verified": "2026-09-12T08:39:59-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2492094.jpg",
       "preorder": "n/a",
@@ -18597,7 +19341,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:24:43-05:00",
+      "last_verified": "2026-09-12T08:39:59-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2498530.jpg",
       "preorder": "n/a",
@@ -18629,7 +19373,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:24:44-05:00",
+      "last_verified": "2026-09-12T08:40:00-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2476489.jpg",
       "preorder": "n/a",
@@ -18661,7 +19405,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:24:45-05:00",
+      "last_verified": "2026-09-12T08:40:01-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2476476.jpg",
       "preorder": "n/a",
@@ -18693,7 +19437,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:24:46-05:00",
+      "last_verified": "2026-09-12T08:40:02-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2456771.jpg",
       "preorder": "n/a",
@@ -18725,7 +19469,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:24:47-05:00",
+      "last_verified": "2026-09-12T08:40:03-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2443409.jpg",
       "preorder": "n/a",
@@ -18757,7 +19501,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:24:48-05:00",
+      "last_verified": "2026-09-12T08:40:04-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2441898.jpg",
       "preorder": "n/a",
@@ -18789,7 +19533,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:24:49-05:00",
+      "last_verified": "2026-09-12T08:40:05-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2456799.jpg",
       "preorder": "n/a",
@@ -18821,7 +19565,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:24:50-05:00",
+      "last_verified": "2026-09-12T08:40:06-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2430971.jpg",
       "preorder": "n/a",
@@ -18853,7 +19597,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:24:51-05:00",
+      "last_verified": "2026-09-12T08:40:07-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2404113.jpg",
       "preorder": "n/a",
@@ -18885,7 +19629,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:24:52-05:00",
+      "last_verified": "2026-09-12T08:40:08-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2382395.jpg",
       "preorder": "n/a",
@@ -18917,7 +19661,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:24:53-05:00",
+      "last_verified": "2026-09-12T08:40:08-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2375635.jpg",
       "preorder": "n/a",
@@ -18949,7 +19693,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:24:53-05:00",
+      "last_verified": "2026-09-12T08:40:09-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2333568.jpg",
       "preorder": "n/a",
@@ -18981,7 +19725,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:24:54-05:00",
+      "last_verified": "2026-09-12T08:40:10-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2243286.jpg",
       "preorder": "n/a",
@@ -19013,7 +19757,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:24:55-05:00",
+      "last_verified": "2026-09-12T08:40:11-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2243269.jpg",
       "preorder": "n/a",
@@ -19045,7 +19789,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:24:56-05:00",
+      "last_verified": "2026-09-12T08:40:12-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2122685.jpg",
       "preorder": "n/a",
@@ -19077,7 +19821,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:24:57-05:00",
+      "last_verified": "2026-09-12T08:40:13-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2114638.jpg",
       "preorder": "n/a",
@@ -19109,7 +19853,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:24:58-05:00",
+      "last_verified": "2026-09-12T08:40:14-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2092803.jpg",
       "preorder": "n/a",
@@ -19141,7 +19885,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:24:59-05:00",
+      "last_verified": "2026-09-12T08:40:15-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-1530836.jpg",
       "preorder": "n/a",
@@ -19173,7 +19917,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:00-05:00",
+      "last_verified": "2026-09-12T08:40:16-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-1516363.jpg",
       "preorder": "n/a",
@@ -19205,7 +19949,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:01-05:00",
+      "last_verified": "2026-09-12T08:40:16-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-1507909.jpg",
       "preorder": "n/a",
@@ -19237,7 +19981,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:02-05:00",
+      "last_verified": "2026-09-12T08:40:17-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-1501138.jpg",
       "preorder": "n/a",
@@ -19299,7 +20043,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:03-05:00",
+      "last_verified": "2026-09-12T08:40:18-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-1489705.jpg",
       "preorder": "n/a",
@@ -19361,7 +20105,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-11T11:24:40-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:03-05:00",
+      "last_verified": "2026-09-12T08:40:19-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-1481861.jpg",
       "preorder": "n/a",
@@ -19393,7 +20137,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:04-05:00",
+      "last_verified": "2026-09-12T08:40:20-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-1428392.jpg",
       "preorder": "n/a",
@@ -19425,7 +20169,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:05-05:00",
+      "last_verified": "2026-09-12T08:40:21-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-1376622.jpg",
       "preorder": "n/a",
@@ -19547,7 +20291,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:06-05:00",
+      "last_verified": "2026-09-12T08:40:22-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-1347047.jpg",
       "preorder": "n/a",
@@ -19579,7 +20323,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "preorder_open",
-      "last_verified": "2026-09-12T08:25:07-05:00",
+      "last_verified": "2026-09-12T08:40:23-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2559185.jpg",
       "preorder": "open",
@@ -19610,7 +20354,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:08-05:00",
+      "last_verified": "2026-09-12T08:40:24-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2327133.jpg",
       "preorder": "n/a",
@@ -19642,7 +20386,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:09-05:00",
+      "last_verified": "2026-09-12T08:40:25-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2319716.jpg",
       "preorder": "n/a",
@@ -19674,7 +20418,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:10-05:00",
+      "last_verified": "2026-09-12T08:40:25-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2319717.jpg",
       "preorder": "n/a",
@@ -19706,7 +20450,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:11-05:00",
+      "last_verified": "2026-09-12T08:40:26-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2317838.jpg",
       "preorder": "n/a",
@@ -19738,7 +20482,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:12-05:00",
+      "last_verified": "2026-09-12T08:40:27-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2319705.jpg",
       "preorder": "n/a",
@@ -19770,7 +20514,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:13-05:00",
+      "last_verified": "2026-09-12T08:40:28-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2319665.jpg",
       "preorder": "n/a",
@@ -19802,7 +20546,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:13-05:00",
+      "last_verified": "2026-09-12T08:40:29-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2319689.jpg",
       "preorder": "n/a",
@@ -19834,7 +20578,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:14-05:00",
+      "last_verified": "2026-09-12T08:40:30-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2319675.jpg",
       "preorder": "n/a",
@@ -19866,7 +20610,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:15-05:00",
+      "last_verified": "2026-09-12T08:40:31-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2319694.jpg",
       "preorder": "n/a",
@@ -19898,7 +20642,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:16-05:00",
+      "last_verified": "2026-09-12T08:40:32-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2319704.jpg",
       "preorder": "n/a",
@@ -19930,7 +20674,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:17-05:00",
+      "last_verified": "2026-09-12T08:40:33-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2319715.jpg",
       "preorder": "n/a",
@@ -19962,7 +20706,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:18-05:00",
+      "last_verified": "2026-09-12T08:40:34-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2319713.jpg",
       "preorder": "n/a",
@@ -19994,7 +20738,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:19-05:00",
+      "last_verified": "2026-09-12T08:40:34-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2319674.jpg",
       "preorder": "n/a",
@@ -20026,7 +20770,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:20-05:00",
+      "last_verified": "2026-09-12T08:40:35-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2317829.jpg",
       "preorder": "n/a",
@@ -20058,7 +20802,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:21-05:00",
+      "last_verified": "2026-09-12T08:40:36-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2319712.jpg",
       "preorder": "n/a",
@@ -20090,7 +20834,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:21-05:00",
+      "last_verified": "2026-09-12T08:40:37-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2319695.jpg",
       "preorder": "n/a",
@@ -20122,7 +20866,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:22-05:00",
+      "last_verified": "2026-09-12T08:40:38-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2319672.jpg",
       "preorder": "n/a",
@@ -20154,7 +20898,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:23-05:00",
+      "last_verified": "2026-09-12T08:40:39-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2319673.jpg",
       "preorder": "n/a",
@@ -20186,7 +20930,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:24-05:00",
+      "last_verified": "2026-09-12T08:40:40-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2319711.jpg",
       "preorder": "n/a",
@@ -20218,7 +20962,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:25-05:00",
+      "last_verified": "2026-09-12T08:40:41-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2311914.jpg",
       "preorder": "n/a",
@@ -20250,7 +20994,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:26-05:00",
+      "last_verified": "2026-09-12T08:40:42-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2319708.jpg",
       "preorder": "n/a",
@@ -20282,7 +21026,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:27-05:00",
+      "last_verified": "2026-09-12T08:40:43-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2319667.jpg",
       "preorder": "n/a",
@@ -20314,7 +21058,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:28-05:00",
+      "last_verified": "2026-09-12T08:40:43-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2319701.jpg",
       "preorder": "n/a",
@@ -20346,7 +21090,7 @@
       "artist": "Skottie Young",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:29-05:00",
+      "last_verified": "2026-09-12T08:40:44-05:00",
       "evidence": "Midtown purchase control renders an enabled 'ADD TO CART' button",
       "image_local": "covers/midtown-2319676.jpg",
       "preorder": "n/a",
@@ -20389,7 +21133,7 @@
       "published_at": "2026-08-24T14:52:03-05:00",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:31-05:00",
+      "last_verified": "2026-09-12T08:40:46-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/skottie-shop-absolute-batman-20-cgc-sig-series-9-9-set-of-three.jpg",
       "preorder": "n/a"
@@ -21390,7 +22134,7 @@
       "published_at": "2024-04-22T10:00:09-05:00",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:33-05:00",
+      "last_verified": "2026-09-12T08:40:47-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/skottie-shop-creature-from-the-black-lagoon-lives.jpg",
       "preorder": "n/a"
@@ -21481,7 +22225,7 @@
       "published_at": "2026-07-02T16:24:51-05:00",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:34-05:00",
+      "last_verified": "2026-09-12T08:40:48-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/skottie-shop-dorc-4-signed.jpg",
       "preorder": "n/a"
@@ -21552,7 +22296,7 @@
       "published_at": "2025-09-10T10:00:04-05:00",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:36-05:00",
+      "last_verified": "2026-09-12T08:40:50-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/skottie-shop-deadpool-batman-1.jpg",
       "preorder": "n/a"
@@ -21599,7 +22343,7 @@
       "published_at": "2026-01-14T10:03:00-06:00",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:37-05:00",
+      "last_verified": "2026-09-12T08:40:51-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/skottie-shop-feral-2.jpg",
       "preorder": "n/a"
@@ -21652,7 +22396,7 @@
       "published_at": "2024-08-26T10:00:01-05:00",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:38-05:00",
+      "last_verified": "2026-09-12T08:40:52-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/skottie-shop-frankenstein-1.jpg",
       "preorder": "n/a"
@@ -21693,7 +22437,7 @@
       "published_at": "2026-01-14T10:00:22-06:00",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:40-05:00",
+      "last_verified": "2026-09-12T08:40:54-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/skottie-shop-groot-1-exclusive.jpg",
       "preorder": "n/a"
@@ -21796,7 +22540,7 @@
       "published_at": "2026-04-29T09:18:00-05:00",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:41-05:00",
+      "last_verified": "2026-09-12T08:40:55-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/skottie-shop-i-hate-fairyland-50-signed-sets.jpg",
       "preorder": "n/a"
@@ -21837,7 +22581,7 @@
       "published_at": "2026-08-29T11:48:29-05:00",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:42-05:00",
+      "last_verified": "2026-09-12T08:40:56-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/skottie-shop-it-demands-sacrifice-1-foil.jpg",
       "preorder": "n/a"
@@ -21970,7 +22714,7 @@
       "published_at": "2026-03-04T10:00:05-06:00",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:44-05:00",
+      "last_verified": "2026-09-12T08:40:58-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/skottie-shop-lobo-1-exclusive.jpg",
       "preorder": "n/a"
@@ -22123,7 +22867,7 @@
       "published_at": "2026-08-03T10:00:04-05:00",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:45-05:00",
+      "last_verified": "2026-09-12T08:40:59-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/skottie-shop-rascal-randy-1-exclusive.jpg",
       "preorder": "n/a"
@@ -22176,7 +22920,7 @@
       "published_at": "2026-07-02T16:25:00-05:00",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:46-05:00",
+      "last_verified": "2026-09-12T08:41:00-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/skottie-shop-spawn-50-connecting-sets-and-singles-signed.jpg",
       "preorder": "n/a"
@@ -22273,7 +23017,7 @@
       "published_at": "2026-01-14T10:00:29-06:00",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:48-05:00",
+      "last_verified": "2026-09-12T08:41:02-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/skottie-shop-spider-punk-arms-race-1-exclusive.jpg",
       "preorder": "n/a"
@@ -22344,7 +23088,7 @@
       "published_at": "2024-08-26T10:00:05-05:00",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:49-05:00",
+      "last_verified": "2026-09-12T08:41:03-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/skottie-shop-teenage-mutant-ninja-turtles.jpg",
       "preorder": "n/a"
@@ -22551,7 +23295,7 @@
       "published_at": "2026-04-16T10:00:09-05:00",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:50-05:00",
+      "last_verified": "2026-09-12T08:41:04-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/skottie-shop-the-amazing-spider-man-spider-versity-1-exclusive.jpg",
       "preorder": "n/a"
@@ -22598,7 +23342,7 @@
       "published_at": "2026-01-14T10:00:30-06:00",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:52-05:00",
+      "last_verified": "2026-09-12T08:41:06-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/skottie-shop-the-closet-1-exclusive.jpg",
       "preorder": "n/a"
@@ -22651,7 +23395,7 @@
       "published_at": "2026-09-08T09:00:06-05:00",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:54-05:00",
+      "last_verified": "2026-09-12T08:41:07-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/skottie-shop-the-demon-1-artist-exclusive.jpg",
       "preorder": "n/a"
@@ -22704,7 +23448,7 @@
       "published_at": "2025-08-20T09:59:30-05:00",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:55-05:00",
+      "last_verified": "2026-09-12T08:41:08-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/skottie-shop-the-invisible-man-1.jpg",
       "preorder": "n/a"
@@ -22837,7 +23581,7 @@
       "published_at": "2026-08-10T13:52:57-05:00",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "preorder_open",
-      "last_verified": "2026-09-12T08:25:56-05:00",
+      "last_verified": "2026-09-12T08:41:09-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/skottie-shop-the-muppets-take-the-marvel-universe-1-pre-order.jpg",
       "preorder": "open"
@@ -22890,7 +23634,7 @@
       "published_at": "2026-02-09T10:00:03-06:00",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:58-05:00",
+      "last_verified": "2026-09-12T08:41:11-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/skottie-shop-the-phantom-of-the-opera-1.jpg",
       "preorder": "n/a"
@@ -22987,7 +23731,7 @@
       "published_at": "2026-09-01T16:04:45-05:00",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:25:59-05:00",
+      "last_verified": "2026-09-12T08:41:12-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/skottie-shop-w0rldtr33-1-cgc-signature-series-9-8.jpg",
       "preorder": "n/a"
@@ -23178,7 +23922,7 @@
       "published_at": "2026-07-02T16:24:58-05:00",
       "first_seen": "2026-09-09T19:54:36-05:00",
       "status": "available",
-      "last_verified": "2026-09-12T08:26:01-05:00",
+      "last_verified": "2026-09-12T08:41:13-05:00",
       "evidence": "Storefront JS available=true and enabled 'Add to cart' button in the /cart/add form",
       "image_local": "covers/skottie-shop-youngblood-1-signed.jpg",
       "preorder": "n/a"
